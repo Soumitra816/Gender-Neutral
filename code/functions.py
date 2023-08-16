@@ -16,7 +16,6 @@ class ReverseLayerF(Function):
 
     @staticmethod
     def backward(ctx, grad_output):
-        print("dekha hai pahli baar")
         output = grad_output.neg() * ctx.p
 
         return output, None
