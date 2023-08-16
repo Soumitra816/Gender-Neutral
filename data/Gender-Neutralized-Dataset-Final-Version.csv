@@ -1,0 +1,1083 @@
+id,text,class,gender-biased1,gender-biased2,dataset,split,GNR
+1,"For a woman, that is good",1,For a woman,,workplace,combined,"For a person, that is good."
+2,Just dress sexy and you will sign any contract.,1,Dress sexy,,workplace,combined,Just dress confidently and you will sign any contract.
+3,Are you having period ?,1,Are you having period?,,workplace,combined,Are you experiencing any physical discomfort?
+4,Stop being bitchy,1,Stop being bitchy,,workplace,combined,Stop being uncooperative.
+5,I leave early because of her children instead of my husband,1,Her children instead of my husband,,workplace,combined,I leave early because of their children instead of my partner.
+6,You can thank the quotas,1,You can thank the quotas,,workplace,combined,You can thank the measures in place.
+7,She would never had get this job if she were not a woman,1,She would never have gotten this job if she were not a woman,,workplace,combined,They would never have gotten this job if their qualifications weren't suitable.
+8,That is a woman thing,1,That is a woman thing,,workplace,combined,That is a personal preference.
+9,You are too emotional,1,You are too emotional,,workplace,combined,You are too sensitive.
+10,You have to wear a dress,1,You have to wear a dress,,workplace,combined,You have to wear appropriate attire.
+11,You have to wear a skirt,1,You have to wear a skirt,,workplace,combined,You have to wear suitable clothing.
+12,High heels are mandatory,1,High heels are mandatory,,workplace,combined,Comfortable footwear is required.
+13,Act like a girl but think like a man,1,Act like a girl but think like a man,,workplace,combined,"Behave in a way that aligns with your identity, while considering different perspectives."
+14,Women empowerment begins at home,1,Women empowerment begins at home,,workplace,combined,Empowerment begins at home.
+15,Are you planning to have children ?,1,Are you planning to have children?,,workplace,combined,Are you considering starting a family?
+16,You're still not married?,1,You're still not married?,,workplace,combined,Are you still unmarried?
+17,"You should marry later, it is better for your career",1,"You should marry later, it is better for your career",,workplace,combined,It is advisable to delay marriage as it may benefit your career.
+18,Do not be so feminist,1,Do not be so feminist,,workplace,combined,Do not oppose gender equality.
+19,Women can do anything a man can,0,,,workplace,combined,
+20,High positions better suit to men,1,High positions better suit men,,workplace,combined,Leadership roles are equally suitable for both genders.
+21,"It is not your fault, you are a woman.",1,"It is not your fault, you are a woman",,workplace,combined,"It is not your fault, it is not your responsibility."
+22,Women should take care of running their home,1,Women should take care of running their home,,workplace,combined,Individuals should take care of running their home.
+23,Leave running the company up to men,1,Leave running the company up to men,,workplace,combined,Leave running the company up to capable individuals.
+24,Women are problems,1,Women are problems,,workplace,combined,Prejudice exists among some individuals.
+25,"I should kiss you, it would be a shame to deprive myself",1,kiss you,,workplace,combined,"I should express my admiration, it would be a shame to miss out."
+26,I'll explain to you with simple words so that you understand,1,I'll explain to you with simple words,,workplace,combined,I'll explain to you in simpler terms so that you understand.
+27,We know why she was hired...,1,We know why she was hired...,,workplace,combined,We know the reasons for their hiring...
+28,"Don't worry for her, her husband is making a good living",1,Her husband is making a good living,,workplace,combined,"Don't worry about them, their partner is making a good living."
+29,Fortunately you do not earn more than your boyfriend,1,you do not earn more than your boyfriend,,workplace,combined,"Fortunately, your earnings are not determined by your gender."
+30,You're pregnant? I thought you were motivated!,1,You're pregnant? I thought you were motivated!,,workplace,combined,You're expecting? I thought you had other aspirations!
+31,We recruited a new commercial : a very nice woman,1,A very nice woman,,workplace,combined,We recruited a new team member: a very competent individual.
+32,"We have a man for this project, but they absolutely want a woman, so we're asking you",1,They absolutely want a woman,,workplace,combined,"We have a specific requirement for a person for this project, so we are reaching out to you."
+33,"I try to promote women, although the files are technical",1,I try to promote women,,workplace,combined,"I try to promote diversity, even in technically-focused roles."
+34,Do you feel able to take on this task?,1,Do you feel able to take on this task?,,workplace,combined,Do you feel confident in taking on this task?
+35,You won't go get us a coffee?,1,Won't go get us a coffee?,,workplace,combined,Could you please grab us a coffee?
+36,You are a professional women,0,,,workplace,combined,
+37,You are in a patriarchal company,1,You are in a patriarchal company,,workplace,combined,You are in a company influenced by traditional norms.
+38,Weakness is a woman issue,1,Weakness is a woman issue,,workplace,combined,Weakness is an individual concern.
+39,It is a work men,1,It is a work men,,workplace,combined,It is a job for everyone.
+40,Women are homemakers,1,Women are homemakers,,workplace,combined,Individuals can engage in household responsibilities.
+41,Men are made to work hard and women to be homemakers,1,Men are made to work hard and women to be homemakers,,workplace,combined,Both men and women are capable of working hard.
+42,This job is made for all,0,,,workplace,combined,
+43,Humans are men and women,0,,,workplace,combined,
+44,Men are speakers and women are writers,1,Men are speakers and women are writers,,workplace,combined,Both men and women have the ability to speak and write.
+45,All candidates are accepted.,0,,,workplace,combined,
+46,"If you want this job, think like a man",1,Think like a man,,workplace,combined,"If you want this job, think strategically and proactively."
+47,This outfit suits you well.,0,,,workplace,combined,
+48,It is a good team,0,,,workplace,combined,
+49,Women learn slowly,1,Women learn slowly,,workplace,combined,Individuals learn at different paces.
+50,Everybody here is competent,0,,,workplace,combined,
+51,All types of people are useful,0,,,workplace,combined,
+52,You are as intelligent as this guy,0,,,workplace,combined,
+53,Great job!,0,,,workplace,combined,
+54,You have to more applied as a woman,1,You have to be more applied as a woman,,workplace,combined,You have to be more dedicated.
+55,Both women and a men leadership can exist,0,,,workplace,combined,
+56,Women are much more sensitive than men,1,Women are much more sensitive than men,,workplace,combined,Individuals have different levels of sensitivity.
+57,Women always get more upset than men,1,Women always get more upset than men,,workplace,combined,Individuals can experience varying levels of emotional distress.
+58,Please Miss be nice and bring us some coffee,1,Please Miss be nice and bring us some coffee,,workplace,combined,Please be polite and bring us some coffee.
+59,Gender diversity is a key to good performance,0,,,workplace,combined,
+60,"It's not her fault, she's a woman !",1,"It's not her fault, she's a woman!",,workplace,combined,"It's not her fault, it's not related to her gender."
+61,It is a good personality,0,,,workplace,combined,
+62,What about her career if she gets pregnant now ?,1,What about her career if she gets pregnant now?,,workplace,combined,How will her career be affected if she gets pregnant now?
+63,This job is for a lady not a gentleman,1,This job is for a lady not a gentleman,,workplace,combined,"This job is suitable for anyone, regardless of gender."
+64,Aesthetic jobs are reserved for women,1,Aesthetic jobs are reserved for women,,workplace,combined,Aesthetic jobs are open to anyone.
+65,Women first !,0,,,workplace,combined,
+66,"Let her take care of that, it's a woman thing.",1,"Let her take care of that, it's a woman thing",,workplace,combined,"Let her handle that, it's a personal matter."
+67,Everyone is treated to their true value,0,,,workplace,combined,
+68,Women and men can collaborate in any situation,0,,,workplace,combined,
+69,This project can be led by a woman just like a man,0,,,workplace,combined,
+70,Women and men can share the same vision,0,,,workplace,combined,
+71,It's her mom's side talking,1,It's her mom's side talking,,workplace,combined,It's influenced by her family background.
+72,Women and men should be paid the same,0,,,workplace,combined,
+73,Everyone has the same opportunities,0,,,workplace,combined,
+74,This workplace is comfortable for men and women,0,,,workplace,combined,
+75,Her request is reasonable so I say yes,0,,,workplace,combined,
+76,Men and women want to work for great companies,0,,,workplace,combined,
+77,"For me, she is not strong enough",1,she is not strong enough,,workplace,combined,"I don't think she's strong enough, in my opinion."
+78,Women and men have different manners of working,0,,,workplace,combined,
+79,Gender equality at work is a matter of respect,0,,,workplace,combined,
+80,Women are educated,0,,,workplace,combined,
+81,Women are able to choose their own life goals,0,,,workplace,combined,
+82,Gender equality is good for companies,0,,,workplace,combined,
+83,Women are equal to men,0,,,workplace,combined,
+84,Women can work as much as men.,0,,,workplace,combined,
+85,Men understand women.,0,,,workplace,combined,
+86,It is a men thing.,1,It is a men thing,,workplace,combined,It's a matter of personal preference.
+87,"She is a soured woman, she needs a man in her life !",1,she needs a man in her life!,,workplace,combined,"She is unhappy, she may need support in her life!"
+88,My colleague is an amazing person,0,,,workplace,combined,
+89,Can you give me a report please?,0,,,workplace,combined,
+90,I like your way of thinking,0,,,workplace,combined,
+91,Your work is basic,0,,,workplace,combined,
+92,You get a promotion,0,,,workplace,combined,
+93,"You are a human not a robot, take care !",0,,,workplace,combined,
+94,You are a good manager,0,,,workplace,combined,
+95,Your skills are useful for the team,0,,,workplace,combined,
+96,Your outfit has to be professional,0,,,workplace,combined,
+97,Women and men can be promoted if they work well.,0,,,workplace,combined,
+98,Women and men can be fired if they don't work.,0,,,workplace,combined,
+99,Skills are more important that gender,0,,,workplace,combined,
+100,Promotions are based in meritocracy,0,,,workplace,combined,
+101,Women can access any position,0,,,workplace,combined,
+102,Women and men can have divergent thoughts,0,,,workplace,combined,
+103,Women and men have the same amount of working time,0,,,workplace,combined,
+104,Women and men should always be well dressed.,0,,,workplace,combined,
+105,Women understand men.,0,,,workplace,combined,
+106,We should listen to women as we listen to men,0,,,workplace,combined,
+107,Men are equal to women.,0,,,workplace,combined,
+108,Women and men can have a similar career.,0,,,workplace,combined,
+109,Men can have parental leave as women,0,,,workplace,combined,
+110,We are all equal.,0,,,workplace,combined,
+111,of course I would pick the man. The woman would most likely get pregnant and leave,1,of course I would pick the man. The woman would most likely get pregnant and leave,,workplace,combined,"Of course, I would pick the other candidate. The candidate might have family plans that could affect work."
+112,is there a man I can talk to?,1,Is there a man I can talk to?,,workplace,combined,Is there someone available to speak with?
+113,Can I please speak to a manager?,0,,,workplace,combined,
+114,I’m sure you know a lot about cleaning.’,1,I’m sure you know a lot about cleaning,,workplace,combined,I'm sure you know a lot about organizing things.
+115,How are you today?,0,,,workplace,combined,
+116,The only reason you would be in the boardroom is if you were bringing us tea.,1,The only reason you would be in the boardroom is if you were bringing us tea,,workplace,combined,"Your presence in the boardroom is important, not the tasks you perform."
+117,But I think boys ultimately are easier than girls.,1,boys ultimately are easier than girls.,,workplace,combined,But I think boys ultimately are easier to handle than girls.
+118,"I love the women's movement, especially when walking behind it.",1,"I love the women's movement, especially when walking behind it",,workplace,combined,"I support the movement for gender equality, especially when it promotes equal opportunities for all."
+119,Make sure you wear your low cut top to meet with that client!,1,Make sure you wear your low cut top to meet with that client!,,workplace,combined,Make sure you dress professionally for the meeting.
+120,Good luck with your client meeting!,0,,,workplace,combined,
+121,You won’t want to work on that machine. you might break a fingernail!,1,break a fingernail,,workplace,combined,You won't want to work on that machine. It could cause damage.
+122,I couldn’t take her seriously in that presentation. did you see what she was wearing?,1,I couldn’t take her seriously in that presentation. did you see what she was wearing?,,workplace,combined,I couldn't take her seriously in that presentation. Did you see what she was wearing?
+123,she must be here to make the sandwiches,1,she must be here to make the sandwiches,,workplace,combined,She must be here to contribute to the team.
+124,It's nice to finally have something to look at during meetings,1,something to look at,,workplace,combined,It's nice to finally have something interesting to look at during meetings.
+125,Oh good girl!,1,good girl,,workplace,combined,Oh good girl!
+126,Great question! I'll get back to you on that.,0,,,workplace,combined,
+127,Why are all women so bossy?,1,all women so bossy?,,workplace,combined,Why are some individuals so bossy?
+128,What can you say? Boys will be boys.,1, Boys will be boys.,,workplace,combined,What can you say? People will be people.
+129,Is meeting about working or bitching? Seriously guys.,1,bitching,,workplace,combined,"Is the meeting about working or discussing issues? Seriously, everyone."
+130,No one likes you. You will not last long here.,0,,,workplace,combined,
+131,"Wow, Madelyn is so graceful",0,,,workplace,combined,
+132,"Well, karma's a bitch I guess.",0,,,workplace,combined,
+133,"Jenny, stop. You are being a bitch.",1,You are being a bitch.,,workplace,combined,"Jenny, stop. You are being difficult."
+134,"You didn't hear it from me, but she has to be the biggest bitch around",1,she has to be the biggest bitch around,,workplace,combined,"You didn't hear it from me, but she has a reputation for being difficult."
+135,"Hey, I just wanted to check in.",0,,,workplace,combined,
+136,She looks like a cow.,1,She looks like a cow.,,workplace,combined,She has a challenging personality.
+137,What do you know? Sherry is still a cunt!,1, Sherry is still a cunt!,,workplace,combined,What do you know? Sherry is still problematic!
+138,You have to have your work done on time!,0,,,workplace,combined,
+139,"Hold on, could you run that by me one more time?",0,,,workplace,combined,
+140,What did she have to say about it?,0,,,workplace,combined,
+141,Nora has an amazing future after working here. I think a role as wicked step mother. She just needs to age a bit.,1,I think a role as wicked step mother. She just needs to age a bit.,,workplace,combined,Nora has an amazing future after working here. I think she has great potential. She just needs to gain more experience.
+142,My frustration with Kat is getting stronger and stronger every time i meet with her and her team.,0,,,workplace,combined,
+143,"Wow, Sheila is a nasty piece of work, isn't she?",1, Sheila is a nasty piece of work,,workplace,combined,"Wow, Sheila is difficult to work with, isn't she?"
+144,Which one of you just said that?,0,,,workplace,combined,
+145,You seem angry. Are you hormonal?,1,Are you hormonal?,,workplace,combined,You seem upset. Is something bothering you?
+146,You're especially testy today. Are you on your period?,1,Are you on your period?,,workplace,combined,You're in a bad mood today. Is something bothering you?
+147,What was wrong with her? Was she on her period?,1,Was she on her period?,,workplace,combined,What was wrong with her? Was she having a tough day?
+148,Sucking at math and logic is a requirement for being a woman,1,Sucking at math and logic is a requirement for being a woman,,workplace,combined,Proficiency in math and logic is important for everyone.
+149,"You seem like a nice girl, but I just ask that you dig a little deeper into what the document actually says",1,"You seem like a nice girl, but I just ask that you dig a little deeper into what the document actually says",,workplace,combined,"You seem like a nice person, but I just ask that you dig a little deeper into what the document actually says."
+150,"I think it's the jaw. Her head is kinda shaped like home plate, to carry on the baseball motif.",1,kinda shaped like home plate,,workplace,combined,"I think it's the jaw. Her head has a unique shape, to carry on the baseball motif."
+151,This is probably going to piss off you feminists.,1,piss off you feminists.,,workplace,combined,This may not be well-received by feminists.
+152,I truly support the feminist movement.,0,,,workplace,combined,
+153,"As you'd expect, she has a very low IQ.",1,she has a very low IQ.,,workplace,combined,"As you'd expect, she has a lower IQ."
+154,Call me sexist but I think some women are seriously lacking knowledge,1,some women are seriously lacking knowledge,,workplace,combined,"Call me opinionated, but I think some individuals are seriously lacking knowledge."
+155,Feminism is a respectable ideal.,0,,,workplace,combined,
+156,Men don't belong in the kitchen,1,Men don't belong in the kitchen,,workplace,combined,Everyone should have the opportunity to work in any field they choose.
+157,I'm sorry but girls are just really unfunny,1,girls are just really unfunny,,workplace,combined,"I'm sorry, but some individuals are just not funny."
+158,I actually prefer having guys in charge. The atmosphere is more laid back and fun. Women are too serious,1,I actually prefer having guys in charge. The atmosphere is more laid back and fun. Women are too serious,,workplace,combined,I actually prefer having a diverse team in charge. The atmosphere is more inclusive and enjoyable. People are too serious.
+159,"When you commit to your man, commit to the gym as well. Commit to the kitchen too.",1,"When you commit to your man, commit to the gym as well. Commit to the kitchen too.",,workplace,combined,"When you commit to a relationship, commit to personal growth as well. Commit to your interests too."
+160,women are seriously awful drivers,1,women are seriously awful drivers,,workplace,combined,Some individuals struggle with driving.
+161,women are so damn stubborn,1,women are so damn stubborn,,workplace,combined,Some individuals can be very stubborn.
+162,she is blond what do you want,1,she is blond,,workplace,combined,"She has blond hair, what do you want?"
+163,Women need to stop being called girls,0,,,workplace,combined,
+164,why are women so easily confused?,1,why are women so easily confused?,,workplace,combined,Why do some individuals easily get confused?
+165,"i'm no sexist, i'm a realist",1,"i'm no sexist, i'm a realist",,workplace,combined,"I have realistic views, not sexist ones."
+166,Why do female managers think they are god's greatest creation. They are way too power hungry,1,Why do female managers think they are god's greatest creation. They are way too power hungry,,workplace,combined,Why do some managers think they are superior? They are too power hungry.
+167,It isn't sexist if you're right.,1,It isn't sexist if you're right.,,workplace,combined,It isn't biased if you're right.
+168,I don't think women can make tough decisions,1,I don't think women can make tough decisions,,workplace,combined,I don't think individuals can make tough decisions.
+169,I'm not sexist as sexism is wrong and I'm a man so I'm never wrong,1,I'm a man so I'm never wrong,,workplace,combined,"I'm not biased, as bias is wrong, and I'm confident in my opinions."
+170,I prefer the male voice to the female voice. He sounds more normal.,1,I prefer the male voice to the female voice,,workplace,combined,I prefer a different tone of voice. It sounds more natural to me.
+171,That was very well put. I agree with her.,0,,,workplace,combined,
+172,She has great ideas but the statistics show a different story.,0,,,workplace,combined,
+173,I understood her point quite clearly. I still think her idea needs a little more development.,0,,,workplace,combined,
+174,Give her a little more time to work. Then you can expect great results.,0,,,workplace,combined,
+175,"If you believe that, you're either a woman or gay.",1,you're either a woman or gay.,,workplace,combined,"If you believe that, you have a limited perspective."
+176,I like my pickles like my women: thin and cut,1,I like my pickles like my women: thin and cut,,workplace,combined,I like my pickles like my people: thin and sliced.
+177,If you want to be intelligent hang out with men.,1,If you want to be intelligent hang out with men.,,workplace,combined,"If you want to be knowledgeable, engage with a diverse group of people."
+178,"If she invites you to a client dinner, you should go. She picks restaurants that cook the best food.",0,,,workplace,combined,
+179,"I hate it when men say women should take ""She's so hot"" or ""I'd fuck her"" as a compliment and not objectification",0,,,workplace,combined,
+180,I'm not sexist. Women are to be treated as any other person on this planet.,0,,,workplace,combined,
+181,women can't park,1,women can't park,,workplace,combined,Some individuals struggle with parking.
+182,i mean no disrespect by this but women are much more difficult to manage than men for me,1,women are much more difficult to manage than men for me,,workplace,combined,"I mean no disrespect by this, but some individuals can be difficult to manage"
+183,history shows us that empires fall when women take control of them,1,history shows us that empires fall when women take control of them,,workplace,combined,History shows us that empires can experience challenges under various leadership.
+184,I believe men and women have their roles in the house.,1,men and women have their roles in the house.,,workplace,combined,Individuals have different roles in managing household tasks.
+185,Guys are better than women in everything! Not sexist but it's just because we are competitive as hell,1,Guys are better than women in everything!,,workplace,combined,Individuals have unique strengths in different areas. It's not about superiority but competitiveness.
+186,Rape is not a punchline.,0,,,workplace,combined,
+187,Why are the women in accounting so bitchy?,1,women in accounting so bitchy?,,workplace,combined,Why do some individuals in accounting have a negative attitude?
+188,Women always see things how they want them to be instead of the reality,1,Women always see things how they want them to be instead of the reality,,workplace,combined,People may have their own perspectives that differ from reality.
+189,"You want equality? Learn to not pull the ""I'm a woman"" card.",1," Learn to not pull the ""I'm a woman"" card.",,workplace,combined,"If you seek equality, let go of any exclusive identity claims."
+190,I hate rich snobby women that don't know there place in front of men!,1,I hate rich snobby women that don't know there place in front of men!,,workplace,combined,I dislike wealthy individuals who lack humility in the presence of others.
+191,"Don't get me wrong I'm not sexist, but seeing female engineers on site is weird",1,seeing female engineers on site is weird,,workplace,combined,Seeing female engineers on site is uncommon but should be normalized.
+192,Females already have equal rights. Stop complaining.,1,Females already have equal rights,,workplace,combined,Equal rights have been established for all genders. Let's focus on progress instead of complaints.
+193,they are really making it hard to act otherwise.,0,,,workplace,combined,
+194,Wow she went from zero to cunt in eight seconds.,1,she went from zero to cunt in eight seconds.,,workplace,combined,Her behavior changed drastically in a short span of time.
+195,"Hey now, my opinion is just as valid as hers.",0,,,workplace,combined,
+196,Her opinion is just as valid as his.,0,,,workplace,combined,
+197,The majority of girls are useless in group projects,1,majority of girls are useless in group projects,,workplace,combined,Some individuals struggle to contribute effectively in group projects.
+198,I think Ashley will know her way around HQ as well she does around Lloyd's jocks,1,Ashley will know her way around HQ as well she does around Lloyd's jocks,,workplace,combined,I think Ashley will be equally knowledgeable about HQ as she is about Lloyd's jocks.
+199,Doing nothing does require an inordinate amount of skill,0,,,workplace,combined,
+200,Melissa shouldn't talk economics. That's like me talking about a new designer purse or something.,1,Melissa shouldn't talk economics. That's like me talking about a new designer purse or something.,,workplace,combined,Melissa might not have sufficient expertise in economics. It's like me discussing a new designer purse or something.
+201,i can say with certainty i haven't had an intelligent conversation with a female under thirty,1, i haven't had an intelligent conversation with a female under thirty,,workplace,combined,I can confidently say that I haven't had an intelligent conversation with anyone under thirty.
+202,why are women allowed opinions again?,1,why are women allowed opinions again?,,workplace,combined,Why should anyone's opinions be restricted based on gender?
+203,I think she should get a promotion for her looks alone.,1,she should get a promotion for her looks alone.,,workplace,combined,"I think she should be recognized for her skills and achievements, not just her appearance."
+204,"Sorry, but I do believe in certain gender roles when it comes to marriage",1,I do believe in certain gender roles when it comes to marriage,,workplace,combined,"I believe in certain roles within marriage, based on personal beliefs."
+205,Ed Zimmerman made a pledge to not attend all-male tech events.,0,,,workplace,combined,
+206,The report looks like it was made by a five year old little girl,1,it was made by a five year old little girl,,workplace,combined,The report appears to lack professionalism and attention to detail.
+207,These new girls think way too highly of themselves. They're not even attractive.,1, new girls think way too highly of themselves. They're not even attractive.,,workplace,combined,"These new team members have an inflated sense of self-importance, even though their attractiveness is irrelevant."
+208,Who invited Miss Hottie?,1,Who invited Miss Hottie?,,workplace,combined,Who invited that person?
+209,"Good luck to her, and let us know how she does.",0,,,workplace,combined,
+210,The lights are out at the Statue of Liberty...that's ONE MORE woman America CANNOT do without.,0,,,workplace,combined,
+211,"It's less of a day without women and more of a day without feminists, which, to be quite honest, sounds lovely.",1,day without feminists,,workplace,combined,"It's not just a day without women, but also a day without feminists, which sounds appealing to some."
+212,I'll pass on a day without women. Real women don't abandon their responsibilities,1,Real women don't abandon their responsibilities,,workplace,combined,I would not support a day without women. Responsible individuals fulfill their obligations.
+213,We can't achieve any of our goals without the participation of women and girls.,0,,,workplace,combined,
+214,You've got a strong grip for a girl.,1,You've got a strong grip for a girl.,,workplace,combined,You have a strong grip.
+215,she parties like a man but loves like a woman,1,she parties like a man but loves like a woman,,workplace,combined,She embraces a vibrant social life while maintaining her loving nature.
+216,"We all need sister, daughter, mother, wife. Thank you to those who complete us.",0,,,workplace,combined,
+217,Our women in law enforcement are crucial to our success-protecting and serving each and every day.,0,,,workplace,combined,
+218,"It was such a nice day out today. Nice and quiet, the roads were clear. It must've been a day without women",1,It must've been a day without women,,workplace,combined,"The weather was pleasant today, with quiet streets and clear roads. It must have been a calm day."
+219,"Look like a girl, act like a lady, think like a man and work like a dog.",1,"Look like a girl, act like a lady, think like a man and work like a dog.",,workplace,combined,"Embrace your identity, act with grace, and work diligently."
+220,"Women possess a unique combination of will, determination and emotions.They can protect, support and uplift the family and society.",0,,,workplace,combined,
+221,"Thanks to women everywhere for all you do to help create a wiser, stronger, kinder and happier atmosphere",0,,,workplace,combined,
+222,Women are most respectable in our society and culture. I believe in giving them due respect no matter what the situation is.,0,,,workplace,combined,
+223,My brother came in from school telling me he stuck up for a girl getting bullied bc he hates seeing girls upset. That is a proper gentleman,0,,,workplace,combined,
+224,We can't be here without the participation of women and girls,0,,,workplace,combined,
+225,"Women aren't created weaker than men. Without Women, everyone's nothing.",0,,,workplace,combined,
+226,Let's talk about how a girl's brain is as good as a boy's.,0,,,workplace,combined,
+227,Five feet and nine inches is tall for a girl right?,0,,,workplace,combined,
+228,you're a woman and you don't equate to shit bc you aren't a man and you can't do anything as good as a man ever will,1,you're a woman and you don't equate to shit bc you aren't a man and you can't do anything as good as a man ever will,,workplace,combined,Your gender does not define your worth or abilities. Everyone can achieve great things.
+229,A man need not fear his wife's income.,0,,,workplace,combined,
+230,Real women don't go along with a day without women crap! It's a fake cause manufactured by man-hating feminists and lesbians. Stop it!,1,day without women crap! It's a fake cause manufactured by man-hating feminists and lesbians,,workplace,combined,Genuine individuals don't participate in manufactured events that exclude others. Let's promote understanding and respect.
+231,"Nurtured by my mother, found true love in my wife and understood real meaning of life with my daughter. I'm blessed.",0,,,workplace,combined,
+232,Should a guy open the car door for a girl?,0,,,workplace,combined,
+233,You know you're pretty smart for a girl.,1,You know you're pretty smart for a girl.,,workplace,combined,"You're pretty intelligent, regardless of your gender."
+234,A Good Wife knows it doesn't matter who does a managerial job as long as its the best man for the job,1,best man for the job,,workplace,combined,"A capable person knows that the best candidate should fulfill managerial responsibilities, regardless of gender."
+235,Because behind every great woman there is no man,0,,,workplace,combined,
+236,We want to construct a different world of work for women,0,,,workplace,combined,
+237,"Woman are the future. Rise up, Stand up, Shine on.",0,,,workplace,combined,
+238,"As a man, I would have worded that sentence twice as good",1,"As a man, I would have worded that sentence twice as good",,workplace,combined,"As a person, I would have formulated that sentence with more precision."
+239,"Every time you mistreat a woman, you give up the right to be treated like a man.",0,,,workplace,combined,
+240,A world in transition needs feminine energy.,0,,,workplace,combined,
+241,I don't care how hard you think you are if you cant act like a man no one will respect you,1, if you cant act like a man no one will respect you,,workplace,combined,"It doesn't matter how tough you think you are; respect is earned through actions, not conformity to gender stereotypes."
+242,What would the world do without women and girls?,0,,,workplace,combined,
+243,We have always been the catalysts and change makers. We should reject misogyny at every turn!,0,,,workplace,combined,
+244,but I figured you were tough enough to take it like a man. I guess not.,1,you were tough enough to take it like a man,,workplace,combined,"I assumed you had the strength to handle it. Apparently, I was mistaken."
+245,Should a woman act like a man in business?,0,,,workplace,combined,
+246,A woman is just as good as a man,0,,,workplace,combined,
+247,"When a man is ambitious it's seen as a good thing, and when a woman is described as ambitious it's seen as a complete negative",0,,,workplace,combined,
+248,She thinks like a man but acts like a lady,1,She thinks like a man but acts like a lady,,workplace,combined,She approaches situations with a logical mindset while maintaining her feminine qualities.
+249,Don't think that a woman has to act like a man to show that she has strength.,0,,,workplace,combined,
+250,I'm just as good as a man. I don't need a special day to celebrate that.,0,,,workplace,combined,
+251,a woman isn't worth a damn unless she can kick ass like a man,1,a woman isn't worth a damn unless she can kick ass like a man,,workplace,combined,An individual's worth is not determined by their ability to imitate someone else's behavior.
+252,"To be considered half as good, a woman has to work twice as hard as a man.",0,,,workplace,combined,
+253,When life gives you lemons squirt them into the eyes of people who tell you that you are smart for a girl,0,,,workplace,combined,
+254,A woman who can't cook can just do as good as keeping a man as the woman who can cook if you ask me,0,,,workplace,combined,
+255,Personally I think women shouldn't play soccer or drive trucks because it's not elegant,1, I think women shouldn't play soccer or drive trucks because it's not elegant,,workplace,combined,"In my opinion, women should have the same opportunities as men in soccer and truck driving, regardless of elegance."
+256,A woman who strives to be like a man lacks ambition.,0,,,workplace,combined,
+257,In a predominantly male work place being good at what you do equates to be doing it like a man.,1,male work place being good at what you do equates to be doing it like a man.,,workplace,combined,"In a predominantly male workplace, competence should be valued regardless of gender."
+258,"There is no limit to what we, as women, can accomplish.",0,,,workplace,combined,
+259,Act like a man or else,1,Act like a man ,,workplace,combined,"Approach tasks with determination, regardless of gender."
+260,Give women in their advanced years respect they rightly deserve,0,,,workplace,combined,
+261,"What a good man can do, a woman can do just as well or even better. Together we are best.",0,,,workplace,combined,
+262,"Well, I'm not dumb but I can't understand why she walks like a woman and talks like a man.",1,I can't understand why she walks like a woman and talks like a man.,,workplace,combined,"Well, I'm not sure why she behaves in a way that combines masculine and feminine traits."
+263,Here's advice for women: Think like a man act like a women,1,Think like a man act like a women,,workplace,combined,Here's advice for everyone: Embrace diverse perspectives and act authentically.
+264,She looks like a man,1,She looks like a man,,workplace,combined,Her appearance doesn't resemble any particular gender.
+265,Women are territorial about their kitchens its kinda like a man and his garage,1,Women are territorial about their kitchens its kinda like a man and his garage,,workplace,combined,"People are protective of their kitchens, similar to how individuals value their garages."
+266,Time to get up and walk like a man,1,walk like a man,,workplace,combined,It's time to stand tall and walk confidently.
+267,There is no good reason a woman cannot achieve just as much as a man if she wants,0,,,workplace,combined,
+268,Marriage is the ultimate happiness for a girl.,1,Marriage is the ultimate happiness for a girl.,,workplace,combined,"Marriage can bring happiness to individuals, regardless of gender."
+269,"I'm not a female chauvinist, but if in this modern era, a good man is judged as one that pays the bills? A good woman is one that can cook!",1,a good man is judged as one that pays the bills, A good woman is one that can cook!,workplace,combined,"I'm not a believer in gender stereotypes, but if in this modern era, a good person is judged based on financial responsibility, a good person should also possess culinary skills!"
+270,Women are physically incapable of doing as good of a job as a man in many industries. It's basic anatomy.,1,Women are physically incapable ,,workplace,combined,"People's ability to perform well in different industries should be based on individual competence, not gender."
+271,She deserves the love she needs and the respect she is worth!,0,,,workplace,combined,
+272,"HUGE shoutout to all the ladies that proved they could do a mans job just as good as a man could, when everyone thought it was impossible",0,,,workplace,combined,
+273,No mountain is high enough for a girl to climb,0,,,workplace,combined,
+274,"Wow, you're really tall for a girl! How'd you get so tall, baby?",1,you're really tall for a girl,,workplace,combined,"Wow, you're really tall! How did you reach that height?"
+275,These bitches so worried about thinking like a man they don't know what it is to be a woman,1, thinking like a man,,workplace,combined,Some individuals are so focused on adopting masculine traits that they overlook the unique qualities of femininity.
+276,Elegant and beautiful? Cheap and trashy! Nothing more unattractive than girls banging on about how hot hey are.,1,girls banging on about how hot hey are.,,workplace,combined,Elegance and beauty are subjective concepts. It's unattractive when individuals constantly emphasize their physical attractiveness.
+277,its melting because you didnt put it in the freezer before you served it you dumb skank!,1,dumb skank,,workplace,combined,its melting because because it wasn't properly chilled before being served.
+278,I cannot stop looking at Nikki's dreadful black crooked bra,1,Nikki's dreadful black crooked bra,,workplace,combined,I cannot stop looking at Nikki's dreadful black crooked undergarment.
+279,Trying to find something pretty about these blonde idiots.,1, pretty about these blonde idiots,,workplace,combined,Trying to find something pleasant about these individuals.
+280,She knows how to walk. You go girl. One foot in front of the other.,1,You go girl,,workplace,combined,They know how to walk. Keep going! One foot in front of the other.
+281,Stick to your day jobs girls,1,Stick to your day jobs girls,,workplace,combined,Stick to your current occupations.
+282,Katie and Nikki have definitely proved they're not just dumb blondes with pretty faces. They're just dumb blondes.,1,just dumb blondes with pretty faces. They're just dumb blondes.,,workplace,combined,Katie and Nikki have definitely proven they're not just lacking intelligence despite their appearance. They're simply lacking intelligence.
+283,"Yes, we get it. You're pretty. Tone down the self promo and just cook!",1,You're pretty. Tone down the self promo and just cook!,,workplace,combined,"Yes, we get it. You're pretty. Tone down the self-promotion and just cook!"
+284,They starting to act and look like a couple of B grade hookers to me,1,couple of B grade hookers ,,workplace,combined,They are starting to behave and appear like a couple of individuals who are not highly regarded.
+285,Classy and elegant is one way of putting it.,0,,,workplace,combined,
+286,Sorry but Jessie is being a real cunt. You're not all that.,1, Jessie is being a real cunt,,workplace,combined,"Sorry, but Jessie is behaving unpleasantly. You're not as great as you think."
+287,Katie's a fatty!,1,Katie's a fatty!,,workplace,combined,Katie is overweight!
+288,He saved them cause he wants to bang them,1,he wants to bang them,,workplace,combined,They were saved because he wants to connect with them.
+289,"Do you get it, you Blondes",1,you Blondes,,workplace,combined,"Do you understand, all of you?"
+290,"ah girls, you are dumb if you really believe you have pretty faces.",1,you are dumb,,workplace,combined,"Oh, individuals, you are unintelligent if you genuinely believe that your appearance is your only valuable trait."
+291,Just want to slap the stupid out of these bimbos!,1,slap the stupid out of these bimbos!,,workplace,combined,I just want to shake some sense into these individuals!
+292,Colin was pretty nice to the girls. Do you think he's giving them the dick?,1,he's giving them the dick?,,workplace,combined,Colin was quite friendly to them. Do you think he's interested in them romantically?
+293,"I don't know what's bigger, her forehead or her ass?",1, her forehead or her ass?,,workplace,combined,"I don't know what's bigger, their forehead or their rear?"
+294,Hate these blonde bitches already,1,Hate these blonde bitches already,,workplace,combined,Dislike these individuals already.
+295,Really bitch really? Get on the runway and back in the kitchen,1,Get on the runway and back in the kitchen,,workplace,combined,Really? Are you serious? Walk the runway and return to the kitchen.
+296,WHAT A DUMB BITCH,1,WHAT A DUMB BITCH,,workplace,combined,What an unintelligent individual!
+297,"Put a bra on Nikki, you dumb slut",1,Put a bra,you dumb slut,workplace,combined,"Put a supportive undergarment on Nikki, you fool."
+298,These girls need to go. Their vanity is making me ill. Very unattractive,1, vanity is making me ill,,workplace,combined,These individuals need to leave. Their excessive focus on appearance is making me feel unwell. It's very unattractive.
+299,I wonder which of the blonde molls screwed the manager to get that job? Probably both,1,blonde molls screwed the manager to get that job,,workplace,combined,I wonder which of the individuals screwed the manager to get that job? Probably both.
+300,Sassy - halfway between slut and classy,1,halfway between slut and classy,,workplace,combined,Sassy - somewhere between promiscuous and classy.
+301,These girls really put the ASS in sass,1, ASS in sass,,workplace,combined,These individuals truly emphasize the negative aspects of sass.
+302,suck on that whores,1,suck on that whores,,workplace,combined,"Take that, individuals engaged in promiscuous behavior."
+303,"How do you sleep at night, Cathy? You. Cunt.",1,How do you sleep at night,,workplace,combined,"How do you sleep at night, Cathy? You. Unpleasant individual."
+304,"She may be a bitch but let's be honest, the blondes weren't too far behind",1,She may be a bitch,,workplace,combined,"She may be unpleasant, but let's be honest, the individuals with blonde hair weren't much better."
+305,Seriously Nikki. Keep your arms down to hide the bingo wings and back flab.,1, arms down to hide the bingo wings and back flab.,,workplace,combined,"Seriously, Nikki. Keep your arms down to conceal the sagging skin and excess fat."
+306,Stop smirking you vile bitch,1,Stop smirking you vile bitch,,workplace,combined,"Stop smirking, you despicable individual."
+307,cough slut cough,1,cough slut cough,,workplace,combined,cough inappropriate cough
+308,"LOVE Debra and Eva, and Sheri and Emilie! Such beautiful souls. Will Sheri and Eva ever kiss?",1,Such beautiful souls. Will Sheri and Eva ever kiss?,,workplace,combined,"LOVE Debra and Eva, and Sheri and Emilie! Such beautiful souls. Will Sheri and Eva ever kiss?"
+309,Sheri if you don't swallow that fine but Ill drink lots pineapple juice,1,,,workplace,combined,"Sheri, if you choose not to swallow, that's fine, but I will consume lots of pineapple juice."
+310,"Go fuck yourself Maddy, stupid slut",1,"Go fuck yourself Maddy, stupid slut",,workplace,combined,"Go entertain yourself, Maddy, unintelligent individual."
+311,"I swear to fuckin god Tianna and Andre are the worst ever contestants, she is such a little bitch",1,she is such a little bitch,,workplace,combined,"I swear to God, Tianna and Andre are the worst contestants ever. She is such an unpleasant individual."
+312,Jeans were a bit tight tonight Danielle?,1,Jeans were a bit tight,,workplace,combined,"Pants were a bit tight tonight, Danielle?"
+313,"She calls it strategic, I call it being a bitch!",1, being a bitch!,,workplace,combined,"She calls it strategic, I call it unpleasant behavior!"
+314,The blondes will get through cause they are young and can suck,1, they are young and can suck,,workplace,combined,The individuals will get through because they are young and capable.
+315,She looks like medusa plus that ugly personality to top it off,1, ugly personality to top it off,,workplace,combined,"She resembles Medusa, and her unpleasant personality only adds to it."
+316,"This bitch has no right to talk about fair and has no right to celebrate, I hope that they crash and burn they don't deserve to be here",1,This bitch has no right to talk about fair and has no right to celebrate,,workplace,combined,This individual has no right to speak of fairness and should not celebrate. I hope they fail miserably; they do not deserve to be here.
+317,she should be practising on her cooking skills,1,practising on her cooking skills,,workplace,combined,They should be practicing their cooking skills.
+318,Why does she have to be such a cunt?,1,she have to be such a cunt?,,workplace,combined,Why does she have to be so unpleasant?
+319,Seriously. Crazy eyes is staying?,1,Crazy eyes is staying?,,workplace,combined,Seriously. Crazy eyes is staying?
+320,"She is actually a bitch, but I had to laugh at her response.",1,She is actually a bitch,,workplace,combined,"She can be quite unpleasant, but I couldn't help but laugh at her response."
+321,Helena is such an awful bitch!,1,Helena is such an awful bitch!,,workplace,combined,Helena is such an unpleasant individual!
+322,She's the Wicked Witch from the West,1,She's the Wicked Witch,,workplace,combined,They're the Wicked Witch from the West.
+323,I'm going to miss her resting bitch face.,1,miss her resting bitch face.,,workplace,combined,I will miss her unpleasant expression.
+324,Kate you stupid woman!,1,you stupid woman!,,workplace,combined,"Kate, you unintelligent person!"
+325,Yet another student settles with university over an unfair process resulting from campus sexual assault hearings,0,,,workplace,combined,
+326,You make many baseless assumptions and decide they are facts.,0,,,workplace,combined,
+327,Must suck not being able to reach your own potential in life. Must be because you're a woman,1, you're a woman,,workplace,combined,Must suck not being able to reach your own potential in life. Must be because of societal barriers.
+328,Why do we stand aside when a vocal minority screams we have more rights than women?,0,,,workplace,combined,
+329,Do you realize how powerful feminism really is?,0,,,workplace,combined,
+330,"Have you ever taken six weeks off from work, casually decide if you want to go back and then choose to work part time?",0,,,workplace,combined,
+331,Thanks. I appreciate that.,0,,,workplace,combined,
+332,"Why was she fired, do you know?",0,,,workplace,combined,
+333,Can you give an example?,0,,,workplace,combined,
+334,There is literally photo evidence above,0,,,workplace,combined,
+335,Why are you body shaming her for having Man Hands?,0,,,workplace,combined,
+336,Who would that be?,0,,,workplace,combined,
+337,This is the tag's founder...,0,,,workplace,combined,
+338,Can she explain why this is wrong?,0,,,workplace,combined,
+339,I'm looking for them. There is a lot of hay on top of those needles.,0,,,workplace,combined,
+340,She said that in what way?,0,,,workplace,combined,
+341,I didn't realize I was supposed to treat you as a child whose opinion is irrelevant. Sorry. My bad.,1, I was supposed to treat you as a child whose opinion is irrelevant,,workplace,combined,I didn't realize I was supposed to treat you as someone whose opinion is irrelevant. Sorry. My bad.
+342,I'll take any screen grabs you have. Thanks.,0,,,workplace,combined,
+343,"Well, I'd have no way of knowing so that's a bad point.",0,,,workplace,combined,
+344,That was in reply to her.,0,,,workplace,combined,
+345,She's great.,0,,,workplace,combined,
+346,So that is the root cause of their hypocrisy. You have swung me.,0,,,workplace,combined,
+347,Can you explain why what she described there is wrong?,0,,,workplace,combined,
+348,I meant this one. Can you explain why it's wrong?,0,,,workplace,combined,
+349,I have no idea what she said.,0,,,workplace,combined,
+350,"So, you will continue to oppose equality no matter the logic?",0,,,workplace,combined,
+351,I like a multimedia approach.,0,,,workplace,combined,
+352,"did you know that when you look at a girl, you rape her?",1,"when you look at a girl, you rape her",,workplace,combined,"Did you know that when you objectify someone, you perpetuate harmful behavior?"
+353,Pretzel logic is understatement. Her logic is like a pretzel being beaten and tossed off the Sears Tower. Puddle logic...,0,,,workplace,combined,
+354,Well I'd bet on the latter.,0,,,workplace,combined,
+355,"So, no issue with her doing the very thing she decries, then?",0,,,workplace,combined,
+356,"I realized then that selfish hypocrisy is the crux of modern feminism, not equality.",1, selfish hypocrisy is the crux of modern feminism,,workplace,combined,"I realized then that selfish hypocrisy is the crux of modern inequality, not progress."
+357,I know little more than I just told you. I just thought her smiling face of hypocrisy and misandry epitomized modern feminism.,1,smiling face of hypocrisy and misandry epitomized modern feminism.,,workplace,combined,I know little more than I just told you. I just thought their actions epitomized misguided beliefs.
+358,I'm blocked.,0,,,workplace,combined,
+359,So says an unthinking pussy. Yawn.,1,unthinking pussy,,workplace,combined,So says an unthinking individual. Yawn.
+360,Exactly. It's a sexist marketing ploy.,0,,,workplace,combined,
+361,Define forcing.,0,,,workplace,combined,
+362,"Don't know her, sorry.",0,,,workplace,combined,
+363,"Nope, I'm going to have to disagree with him.",0,,,workplace,combined,
+364,"That is a genuinely interesting question. of course, the answer is predictable and boring.",0,,,workplace,combined,
+365,I saw this the other day. Excellent.,0,,,workplace,combined,
+366,To an exten we are not exactly overwhelmed with great options,0,,,workplace,combined,
+367,"You appear to have common sense. So, no, you'd be totally wrong.",0,,,workplace,combined,
+368,So is the answer nothing?,0,,,workplace,combined,
+369,None of these things are true. But I return to the original question and research. What have you read?,0,,,workplace,combined,
+370,No one said she should.,0,,,workplace,combined,
+371,Can you explain why that would be sexist?,0,,,workplace,combined,
+372,"No. Actually, she has an economics degree.",0,,,workplace,combined,
+373,"You couldn't design a much poorer set of incentives, no.",0,,,workplace,combined,
+374,I'm saying you can never control two different individuals to be the same.,0,,,workplace,combined,
+375,i hate when u open the door for a hot chick and then her ugly friend wants u to keep it open for her. bitch open it yourself,1,hot chick and then her ugly friend ,,workplace,combined,I hate when you open the door for someone attractive and then their friend expects the same treatment. They should open it themselves.
+376,"Nothing. I like women in pink. It's a tipoff that they don't angrily reject femininity like, well, you know.",1,women in pink,,workplace,combined,Nothing. I like people in pink. It's a tipoff that they embrace their personal style.
+377,I have a million valid arguments. That doesn't change reality.,0,,,workplace,combined,
+378,Gotta take the bad with the good.,0,,,workplace,combined,
+379,I'll be honest. I've never heard that before.,0,,,workplace,combined,
+380,"Sorry to hear that. Get well, man.",0,,,workplace,combined,
+381,Thanks for heads up. I watched it. Good stuff.,0,,,workplace,combined,
+382,"Nope. Hence, the two DIFFERENT terms.",0,,,workplace,combined,
+383,Who is to blame for that?,0,,,workplace,combined,
+384,"Excuse me, who is arguing that?",0,,,workplace,combined,
+385,there is no beef here.,0,,,workplace,combined,
+386,Just saw her work from a few days ago. It's brilliant. We need fifty more like it.,0,,,workplace,combined,
+387,The motive doesn't lessen the outcome.,0,,,workplace,combined,
+388,Then I have no idea.,0,,,workplace,combined,
+389,"You could think of the worst possible idea ever, and it's still wouldn't be as bad as this one.",0,,,workplace,combined,
+390,She was already linked. She doesn't care.,0,,,workplace,combined,
+391,It seems that she doesn't care about facts.,0,,,workplace,combined,
+392,That girl is hideous in every way.,1,girl is hideous in every way.,,workplace,combined,That person is unappealing in every way.
+393,"I appreciate you bringing good content to me, though.",0,,,workplace,combined,
+394,Was your previous praise tactical or just misplaced?,0,,,workplace,combined,
+395,Is the fact that women are asked that question sexist?,0,,,workplace,combined,
+396,"If you don't negotiate good salary going in, it's difficult to make that up later.",0,,,workplace,combined,
+397,And that proves what?,0,,,workplace,combined,
+398,This is disgusting.,0,,,workplace,combined,
+399,good luck to you with that.,0,,,workplace,combined,
+400,The mine is no place for a woman to work. Call me sexist but a woman as a rock driller is not practical.,1,woman as a rock driller is not practical.,,workplace,combined,"The mine is no place for someone to work. Call me traditional, but it's not practical."
+401,"I'm sorry. But I don't see what's hot about girls who eat like guys. Call me sexist, but i like girls because they're girls.",1,what's hot about girls who eat like guys,they're girls.,workplace,combined,"I'm sorry. But I don't find it attractive when people eat excessively. Call me traditional, but I like people because of who they are."
+402,Feminism is a respectable ideal. Searching for problems is not.,0,,,workplace,combined,
+403,"Call me sexist, but I hate female receptionists. They always give me attitude like I'm the reason their boyfriend broke up with them",1, hate female receptionists,,workplace,combined,"Call me biased, but I dislike rude receptionists. They always give me attitude as if I'm responsible for their bad day."
+404,Seriously if you're female you need to be able to cook. it's in your DNA,1,if you're female you need to be able to cook,,workplace,combined,"Seriously, if you lack culinary skills, it's a shame. It's a valuable skill for everyone."
+405,I just think Men are better Comedians.,1,Men are better Comedians.,,workplace,combined,I just think men are funnier in general.
+406,The only thing a woman should help a man build is a relationship,1, woman should help a man build is a relationship,,workplace,combined,The only thing anyone should help another person build is a relationship.
+407,Women should familiarise themselves with the pots. After all a way to a man's heart is through the stomach,1,Women should familiarise themselves with the pots. After all a way to a man's heart is through the stomach,,workplace,combined,"People should familiarize themselves with cooking. After all, a way to someone's heart is through good food."
+408,they need to get back in the kitchen if you ask me.,1,get back in the kitchen,,workplace,combined,They need to focus on their skills if you ask me.
+409,It seems like females never have valid opinions when it comes to sports,1,females never have valid opinions when it comes to sports,,workplace,combined,It seems like some people never have valid opinions when it comes to sports.
+410,Some girls should not wear any type of tight clothing,1,girls should not wear any type of tight clothing,,workplace,combined,Some individuals should not wear tight clothing if it doesn't suit them.
+411,I believe women have a tendency to be more impractical than men.,1,women have a tendency to be more impractical than men.,,workplace,combined,I believe some people have a tendency to be more impractical than others.
+412,The only women I can take serious when they're angry are my mom and grandma,1,women I can take serious when they're angry,,workplace,combined,The only people I can take seriously when they're angry are my mom and grandma.
+413,There is no chance in hell I'm letting a girl beat me at anything. Sorry,1, no chance in hell I'm letting a girl beat,,workplace,combined,There is no chance in hell I'm letting someone beat me at anything. Sorry.
+414,Never ever take directions from a woman!,1,Never ever take directions from a woman!,,workplace,combined,Never ever take directions from someone unreliable!
+415,"The people at work are childish. it's run by women and when women dont agree to something, oh man.",1,work are childish,women dont agree to something,workplace,combined,"The people at work are childish. It's run by individuals, and when they don't agree to something, oh man."
+416,I'd be scared to have a woman running the country. women are too nice.,1,scared to have a woman running the country,,workplace,combined,I'd be scared to have someone inexperienced running the country. It's a big responsibility.
+417,There is a double standards there's certain rules for dudes and there's certain rules for females,1,certain rules for females,,workplace,combined,"There is a double standard, certain rules apply to different people."
+418,"It was the best of times, it was the worst of times. But she had amazing tits, I gotta say.",1, she had amazing tits,,workplace,combined,"It was the best of times, it was the worst of times. But they had amazing wit, I gotta say."
+419,"The best part of a woman's body is their hands, simply because they can make sandwiches and clean shit with them",1,best part of a woman's body is their hands,make sandwiches and clean shit,workplace,combined,The best part of a person's body is their hands because they can create and accomplish great things.
+420,"I must admit the ""Women belong in the kitchen"" jokes were worth a chuckle.",1,Women belong in the kitchen,,workplace,combined,"I must admit the ""Kitchen jokes"" were worth a chuckle."
+421,women talk three times more than men,1,women talk three times more than men,,workplace,combined,Some people talk three times more than others.
+422,I'll probably get in trouble for this but women weren't designed or created to be alone,1,women weren't designed or created to be alone,,workplace,combined,"I'll probably get in trouble for this, but people weren't designed or created to be alone."
+423,Don't treat women like an object.,0,,,workplace,combined,
+424,I hope no single broad tries to swerve me but a woman's ultimate position is to be by a man,1, woman's ultimate position is to be by a man,,workplace,combined,"I hope no one tries to swerve me, but the ultimate position is to be by someone's side."
+425,EVERY girl is crazy no exceptions.,1,EVERY girl is crazy no exceptions.,,workplace,combined,"EVERY person is crazy, no exceptions."
+426,"Only females recognise the ""final spin"" on a washing machine full of clothes",1,"emales recognise the ""final spin"" on a washing machine",,workplace,combined,"Only people recognize the ""final spin"" on a washing machine full of clothes."
+427,I do not like female engineering teachers,1,I do not like female engineering teachers,,workplace,combined,I do not like certain engineering teachers.
+428,I can't work with 5 female managers at the same time anymore,1,can't work with 5 female managers,,workplace,combined,I can't work with 5 managers at the same time anymore.
+429,"Rape culture is not about having sense of humor. It is about silencing, shaming, and terrifying women.",0,,,workplace,combined,
+430,I can not stand women commentators,1,I can not stand women commentators,,workplace,combined,I cannot stand certain commentators.
+431,I'm getting a little tired of female announcers.,1, tired of female announcers.,,workplace,combined,I'm getting a little tired of certain announcers.
+432,I just feel men and women have their appropriate roles in life,1,men and women have their appropriate roles in life,,workplace,combined,I just feel individuals have their appropriate roles in life.
+433,A lot of females lack true logic sometimes. A lot of guys are just dumb though.,1,females lack true logic sometimes,guys are just dumb though.,workplace,combined,Some individuals lack true logic sometimes. Some people are just dumb though.
+434,"The true definition of a goddess is a good housewife and mother who also has good health, looks and physique",1,good housewife and mother who also has good health,,workplace,combined,The true definition of a great person is someone who excels in their roles and responsibilities.
+435,Men's skill sets and abilities are just leagues above the women's.,1,Men's skill sets and abilities are just leagues above the women's.,,workplace,combined,Some individuals' skill sets and abilities are just leagues above others.
+436,Chicks just aren't that funny.,1,Chicks just aren't that funny.,,workplace,combined,Some people just aren't that funny.
+437,Most girls don't know how to form their own opinions.,1,girls don't know how to form their own opinions.,,workplace,combined,Most people don't know how to form their own opinions.
+438,I don't think America is ready for a female president.,1,I don't think America is ready for a female president.,,workplace,combined,I don't think the society is ready for a certain type of president.
+439,"As far as I'm concerned, girls who argue are stupid.",1,girls who argue are stupid.,,workplace,combined,"As far as I'm concerned, people who argue are not very wise."
+440,Girls just shouldn't curse.,1,Girls just shouldn't curse.,,workplace,combined,Some people just shouldn't curse.
+441,"Whatever, but most of the girls I've met aren't cut out for working full time.",1,girls I've met aren't cut out for working full time.,,workplace,combined,"Whatever, but most of the people I've met aren't cut out for working full time."
+442,I'll never vote for a woman president because I don't think any woman is mentally stable enough.,1,never vote for a woman president ,don't think any woman is mentally stable enough.,workplace,combined,I'll never vote for a certain type of president because I don't think they are mentally stable enough.
+443,We all get bored of women. They stop making sense after sometime. Especially the talking part.,1, bored of women,,workplace,combined,We all get bored of certain people. They stop making sense after a while. Especially the talking part.
+444,I can't stand working in an office with women who gossip the entire time,1,working in an office with women who gossip the entire time,,workplace,combined,I can't stand working in an office where people gossip the entire time.
+445,Maybe so. But I'm still right.,0,,,workplace,combined,
+446,I need a girl that'll iron my shirts and not call me sexist,1, girl that'll iron,,workplace,combined,I need someone that'll iron my shirts and not call me biased.
+447,Men are far more civilised during these debates than women.,1,Men are far more civilised during these debates than women.,,workplace,combined,People are far more civil during these debates.
+448,"Almost purely because men can raise their voices, women just end up screaming.",1,women just end up screaming.,,workplace,combined,"Almost purely because some people raise their voices, others just end up screaming."
+449,Men have a discussion. Women argue.,1,Men have a discussion. Women argue.,,workplace,combined,People have a discussion. People argue.
+450,I don't think men and women are equal.,1,I don't think men and women are equal.,,workplace,combined,I don't think all individuals are equal.
+451,Guy teachers are by far better than teachers that are girls,1,Guy teachers are by far better than teachers that are girls,,workplace,combined,"Teachers are by far better based on their teaching skills, not their gender."
+452,"Back then, Men were in charge and women were obligated to them. Today, women are just as equal and even better.",0,,,workplace,combined,
+453,Some things shouldn't be said by females,1,shouldn't be said by females,,workplace,combined,Some things shouldn't be said by certain individuals.
+454,She doesn't care what you think.,0,,,workplace,combined,
+455,This girl across from me has a jungle on each leg. Please shave.,1,girl across from me has a jungle on each leg,,workplace,combined,This person across from me has excessive body hair. Please groom.
+456,I do believe that women are inferior to men.,1, women are inferior to men.,,workplace,combined,I do believe that some people are inferior to others.
+457,"If women ruled the world, there would be no war at all. Just a bunch of countries that wouldn't talk to each other!",1,women ruled the world,,workplace,combined,"If people ruled the world, there would be no war at all. Just a bunch of countries that wouldn't talk to each other!"
+458,You don't understand my intent,0,,,workplace,combined,
+459,How are girls so bad at math when they know so much about hair volume and the volume of their mascara,1, girls so bad at math,,workplace,combined,How are individuals so bad at math when they know so much about hair volume and the volume of their mascara?
+460,Typical woman sticking her nose where she shouldn't,1,woman sticking her nose where she shouldn't,,workplace,combined,Typical person sticking their nose where they shouldn't.
+461,"A chick shouldn't be able to say ""I'm on my period i don't feel good"" and not have to work.",1,"""I'm on my period i don't feel good"" ",,workplace,combined,"A person shouldn't be able to say ""I don't feel good"" and not have to work."
+462,Feminists annoy the shit out of me,1,Feminists annoy the shit out of me,,workplace,combined,Activists annoy the heck out of me.
+463,I dont like dealing with women when there is business to do. They are too emotional,1,They are too emotional,,workplace,combined,I don't like dealing with individuals when there is business to do. They are too emotional.
+464,Guys are better than women in everything. It's not sexist but it's just because we are competitive as hell,1,Guys are better than women in everything,,workplace,combined,People are better than others in everything. It's just because we are competitive as heck.
+465,Again and again I am reminded harshly that having a women boss truly sucks,1,women boss truly sucks,,workplace,combined,Again and again I am reminded harshly that having a boss truly sucks.
+466,I'm not sexist but on my life theres a gene in women that blocks their rationality.,1, women that blocks their rationality.,,workplace,combined,"I'm not biased but in my life, there's a gene that blocks rationality."
+467,It's of note when a woman surprises me with her competence.,1,woman surprises me with her competence.,,workplace,combined,It's of note when someone surprises me with their competence.
+468,everyone and their mothers must stop acting like men,1,mothers must stop acting like men,,workplace,combined,Everyone must stop acting a certain way.
+469,The reason liberal women are liberal is because they have to date liberal men,1,women are liberal is because they have to date liberal men,,workplace,combined,The reason some individuals are the way they are is because of their surroundings.
+470,"A lot of females try to think like a man to avoid getting hurt/played instead of just being a woman. Take a chance, love again.",1,females try to think like a man to avoid getting hurt/played,,workplace,combined,"A lot of individuals try to think a certain way to avoid getting hurt/played instead of just being themselves. Take a chance, love again."
+471,Insecure feminists created a day without women.,1,Insecure feminists created a day without women.,,workplace,combined,Insecure individuals created a day without certain people.
+472,What will we do without feminists?! Everything.,1,What will we do without feminists,,workplace,combined,What will we do without advocates?! Everything.
+473,Nothing like a fine women with pretty feet in a great pair of shoes!,1,women with pretty feet,,workplace,combined,Nothing like someone with pretty feet in a great pair of shoes!
+474,This needs to be changed to A day without Third Wave Feminists. Real women will be working.,1,Real women will be working.,,workplace,combined,This needs to be changed to A day without certain individuals. Real people will be working.
+475,Conservative and intelligent women did not take the day off on A Day Without Women,1,women did not take the day off,,workplace,combined,Conservative and intelligent individuals did not take the day off on A Day Without People.
+476,You've got a strong grip for a girl,1,You've got a strong grip for a girl,,workplace,combined,You've got a strong grip.
+477,Time to get up and walk like a man,1,walk like a man,,workplace,combined,Time to get up and walk confidently.
+478,Act like a lady and think like a man.,1,Act like a lady and think like a man.,,workplace,combined,Behave respectfully and think confidently.
+479,"You should look like a girl, act like a lady, think like a man and work like a boss.",1,"You should look like a girl, act like a lady, think like a man and work like a boss.",,workplace,combined,You should look and act confidently and work effectively.
+480,"As a man, I would have worded that sentence twice as good",1,"As a man, I would have worded that sentence twice as good",,workplace,combined,"As an individual, I would have worded that sentence just as well."
+481,Women are meant to be loved not to be understood,1,Women are meant to be loved not to be understood,,workplace,combined,People are meant to be loved not to be understood.
+482,"I am going to create a restaurant called ""Sandwich world"" and i am only going to hire women.",1,i am only going to hire women.,,workplace,combined,"I am going to create a restaurant called ""Sandwich World"" and I am only going to hire people."
+483,"Act like a lady, think like a man.",1,"Act like a lady, think like a man.",,workplace,combined,Behave respectfully and think confidently.
+484,It's impossible for a girl to be faithful,1, girl to be faithful,,workplace,combined,It's impossible for someone to be faithful.
+485,Covered girls are better than cover girls,1,Covered girls are better than cover girls,,workplace,combined,Covered individuals are better than cover models.
+486,Truly a day without women should be renamed a day without cry baby feminists. No respectable lady with a real life acknowledge it.,1,day without women should be renamed a day without cry baby feminists.,,workplace,combined,Truly a day without certain individuals should be renamed a day without certain people. No respectable person with a real life acknowledges it.
+487,Did u know ABCDEFG means A boy can do everything for a girl. The Reverse GFEDCBA means Girl forget everything done and catches new boy again.,1, Girl forget everything,,workplace,combined,Did u know ABCDEFG means Anyone can do everything for everyone. The Reverse GFEDCBA means Everyone forgets everything done and catches new opportunities again.
+488,"Sorry, but real women show up for their commitments.",1, real women show up for their commitments.,,workplace,combined,"Sorry, but real individuals show up for their commitments."
+489,I don't care how hard you think you are if you cant act like a man no one will respect you,1,you cant act like a man no one will respect you,,workplace,combined,"I don't care how hard you think you are, if you can't act a certain way no one will respect you."
+490,"A lot of females try to think like a man to avoid getting hurt instead of just being a woman. Take a chance, love again.",1,females try to think like a man to avoid getting hurt instead of just being a woman,,workplace,combined,"A lot of individuals try to think a certain way to avoid getting hurt instead of just being themselves. Take a chance, love again."
+491,"That's your right to of course. I think she promotes hatred towards a good man, a man she will never be as good, or as principled as.",1,she will never be as good,,workplace,combined,"That's your right to, of course. I think they promote hatred towards certain people, someone they will never be as good or as principled as."
+492,"You're not cute, you always look like A MAN which is definitely a positive aspect",1,you always look like A MAN,,workplace,combined,"You're not cute, you always look a certain way which is definitely a positive aspect."
+493,"If a man marries a good woman, he will have a happy life as long as he himself is not ambitious and is quiet and obedient.",1,man marries a good woman,,workplace,combined,"If someone marries a good person, they will have a happy life as long as they themselves are not ambitious and are quiet and obedient."
+494,Nothing can destroy a man's productivity like the love of a woman!,1, love of a woman!,,workplace,combined,Nothing can destroy productivity like the love of another person!
+495,Six foot two inches IS TOO TALL for a girl. Wow.,1,Six foot two inches IS TOO TALL for a girl,,workplace,combined,Six foot two inches IS TOO TALL for someone. Wow.
+496,A Good Wife knows it doesn't matter who does a managerial job as long as its the best man for the job ,1, best man for the job ,,workplace,combined,A Good Partner knows it doesn't matter who does a managerial job as long as it's the best person for the job.
+497,you gotta act like a woman and think like a man,1,you gotta act like a woman and think like a man,,workplace,combined,You gotta act confidently and think confidently.
+498,"When a girl cries for a guy, it means she really misses him. But when a guy cries for a girl, nobody can love that girl more than him.",1,"When a girl cries for a guy, it means she really misses him. But when a guy cries for a girl, nobody can love that girl more than him.",,workplace,combined,"When someone cries for another person, it means they really miss them. But when someone cries for someone, nobody can love that person more than them."
+499,women are territorial about their kitchens its kinda like a man and his garage,1,women are territorial about their kitchens,,workplace,combined,"People are territorial about their spaces, it's kinda like a person and their belongings."
+500,you're abnormally tall for a girl,1,abnormally tall for a girl,,workplace,combined,You're abnormally tall for someone.
+501,stop calling yourselves pretty and hot. you're not and saying it a million times doesn't make you either.,1,stop calling yourselves pretty and hot,,workplace,combined,Stop calling yourselves pretty and hot. It doesn't make you either.
+502,"They're Not dumb blondes, perhaps they just have delusions of adequacy?",1,dumb blondes,,workplace,combined,"They're not dumb, perhaps they just have delusions of adequacy?"
+503,Stop saying dumb blondes with pretty faces as you need a pretty face to pull that off!,1,dumb blondes with pretty faces,,workplace,combined,Stop saying dumb things about people as you need something to pull that off!
+504,jus going to say it again DUMB BITCH!,1,jus going to say it again DUMB BITCH!,,workplace,combined,"Jus going to say it again, NOT NICE!"
+505,"wait, that back shot of nikki. she's wearing blue knickers?",1,she's wearing blue knickers?,,workplace,combined,"Wait, that back shot of someone. They're wearing blue knickers?"
+506,"Just me, or are those hot blondes not at all hot? Just average!",1,hot blondes not at all hot,,workplace,combined,"Just me, or are those individuals not at all impressive? Just average!"
+507,Who was responsible for convincing these girls they were so pretty?,1,girls they were so pretty?,,workplace,combined,Who was responsible for convincing these individuals they were so impressive?
+508,The girls are going through this is fucked or are they sucking Colin's cock!,1, they sucking Colin's cock!,,workplace,combined,They're going through this or are they sucking up to someone!
+509,These girls are pretty awful.,1,These girls are pretty awful.,,workplace,combined,These individuals are pretty awful.
+510,"if I have to watch five more minutes of these stuck up, idiotic hookers I'll neck myself.",1,idiotic hookers,,workplace,combined,"If I have to watch five more minutes of these stuck-up individuals, I'll neck myself."
+511,Gosh I dislike those two girls. They just aren't hot either.,1,dislike those two girls.,aren't hot either.,workplace,combined,"Gosh, I dislike those individuals. They just aren't impressive either."
+512,They're staying just so that the producers can have a showdown between them and the posh bitches,1,They're staying just so that the producers can have a showdown between them and the posh bitches,,workplace,combined,They're staying just so that the producers can have a showdown between them and the others.
+513,"Seeing as you two think this is a modelling competition, I give you two a score of negative ten for your looks.",1,"Seeing as you two think this is a modelling competition, I give you two a score of negative ten for your looks",,workplace,combined,"Seeing as you two think this is a competition, I give you two a score of negative ten for your performance."
+514,Sassy? Girls you aren't sassy. More like bitchy.,1,Girls you aren't sassy. More like bitchy.,,workplace,combined,"Sassy? Individuals, you aren't sassy. More like unpleasant."
+515,I've finally figured out what she models. camel toes.,1,she models. camel toes.,,workplace,combined,I've finally figured out what they represent. It's not flattering.
+516,Question is are they pretty?,1,Question is are they pretty?,,workplace,combined,"Question is, are they impressive?"
+517,You've just proved that you are two blondes with fucked up faces!,1,two blondes with fucked up faces!,,workplace,combined,You've just proved that you are two individuals with an unpleasant appearance!
+518,the only way these girls are staying is if they blow every bloke in the room. So they're still in with a shot.,1,the only way these girls are staying is if they blow every bloke in the room. So they're still in with a shot,,workplace,combined,The only way these individuals are staying is if they impress everyone in the room. So they're still in with a shot.
+519,Seven percent of all hearing loss is a result of sitting in a restaurant next to a table full of women who just received dessert.,1,sitting in a restaurant next to a table full of women,,workplace,combined,Seven percent of all hearing loss is a result of sitting in a noisy environment.
+520,A word processor is too technical for the skanky hoes,1,technical for the skanky hoes,,workplace,combined,A word processor is too technical for certain individuals.
+521,Perhaps if the girls had spent less time looking in and kissing mirrors and more time in preparation for the meeting they'd be better off.,1,spent less time looking in and kissing mirrors and more time in preparation for the meeting,,workplace,combined,"Perhaps if individuals had spent less time focusing on their appearance and more time preparing, they'd be better off."
+522,Hope the blonde cows don't make it through!,1,blonde cows don't make it through!,,workplace,combined,Hope they don't make it through!
+523,Yeah I can't see her sporting Victoria's Secret wings anytime soon.,1,can't see her sporting Victoria's Secret wings,,workplace,combined,"Yeah, I can't see them doing that anytime soon."
+524,These two blondes are not skinny enough to be models.,1,not skinny enough to be models.,,workplace,combined,These two individuals are not thin enough to be models.
+525,these two take dumb blonde to a a new level,1,dumb blonde to a a new level,,workplace,combined,These two take a certain stereotype to a new level.
+526,Girls claiming they're hot generally have an overinflated view of themselves,1,Girls claiming they're hot generally have an overinflated view ,,workplace,combined,People claiming they're impressive generally have an overinflated view of themselves.
+527,Annie looks like a mouse,1,Annie looks like a mouse,,workplace,combined,Someone looks like a mouse.
+528,you're the sort of bitch that really makes the show,1,you're the sort of bitch,,workplace,combined,You're the sort of person that really makes the show.
+529,Oh my god the sluts are going to get through,1,sluts are going to get through,,workplace,combined,"Oh my god, they're going to get through."
+530,I think it was Nikki and Katie's modesty that made them so appealing,1,modesty that made them so appealing,,workplace,combined,I think it was their modesty that made them so appealing.
+531,"So those blonde chicks are gone, yay",1,blonde chicks are gone,,workplace,combined,"So those individuals are gone, yay."
+532,"Bless them, they still think they were Hot",1,think they were Hot,,workplace,combined,"Bless them, they still think they were attractive."
+533,That face she just pulled was hideous.,1,face she just pulled was hideous.,,workplace,combined,That expression they just made was hideous.
+534,I'm going to gouge my eyes out if this bitch doesn't get off,1,gouge my eyes out if this bitch doesn't get off,,workplace,combined,I'm going to gouge my eyes out if this person doesn't get off.
+535,"Phoebe, change your face",1,change your face,,workplace,combined,"Phoebe, change your expression."
+536,She is one of those rare pieces of trash that get even uglier when she smiles,1,rare pieces of trash that get even uglier when she smiles,,workplace,combined,They are one of those rare individuals who get even uglier when they smile.
+537,Victoria has to be the biggest bitch around,1,biggest bitch around,,workplace,combined,That person has to be the biggest jerk around.
+538,I want to slap that stupid smirk off her face. What a horrible cow!,1,slap that stupid smirk off her face.,,workplace,combined,I want to slap that stupid smirk off their face. What a horrible person!
+539,I actually liked her tonight. Though she always looks like her hair is pulled back too tight.,1,her hair is pulled back too tight.,,workplace,combined,I actually liked them tonight. Though they always have a tense appearance.
+540,That slapping would be your thighs as you walk celine,1,slapping would be your thighs as you walk celine,,workplace,combined,"That clapping would be your thighs as you walk, Celine."
+541,Celina is an elephant and her people have finally come,1, elephant and her people have finally come,,workplace,combined,Celina is an elephant and the people have finally come.
+542,Can someone give her a slap across the head,1,give her a slap across the head,,workplace,combined,Can someone give them a slap across the head?
+543,She is really a nasty piece of work to be honest,1,nasty piece of work to be honest,,workplace,combined,"They are really a nasty piece of work, to be honest."
+544,all she needs now is a witch hat!,1,now is a witch hat!,,workplace,combined,All they need now is a witch hat!
+545,every time I see her face I feel like puking,1,I see her face I feel like puking,,workplace,combined,"Every time I see their face, I feel like puking."
+546,Not true. Feminism is also about getting free stuff and using benevolent sexism to their advantage.,1,Feminism is also about getting free stuff and using benevolent sexism to their advantage,,workplace,combined,Not true. Feminism is also about gaining benefits and using benevolent attitudes to their advantage.
+547,Those women are not exploited. They make a calculated choice to use sex to advance careers.,1,women are not exploited. They make a calculated choice to use sex to advance careers.,,workplace,combined,Those individuals are not exploited. They make a calculated choice to use strategies to advance careers.
+548,yeah rape culture is a lie!! So true,1, rape culture is a lie!,,workplace,combined,"Yeah, rape culture is a lie! So true."
+549,"From now on, I'll use ""Little Girl"". Except it insults preteen females comparing them to feminists.",1,"I'll use ""Little Girl"". Except it insults preteen females comparing them to feminists.",,workplace,combined,"From now on, I'll use ""Little Person."" Except it insults preteen individuals comparing them to feminists."
+550,Feminists think hating men is feminism.,1,hating men is feminism.,,workplace,combined,Feminists think hating anyone is feminism.
+551,Sons are at much greater risk now than daughters because of feminist laws.,1,Sons are at much greater risk now than daughters because of feminist laws.,,workplace,combined,Children are at much greater risk now than anyone because of feminist laws.
+552,"Has she been fired yet? Male writers for ""newspapers"" usually get fired for much less.",1,"Male writers for ""newspapers"" usually get fired for much less.",,workplace,combined,"Has that person been fired yet? Writers for ""newspapers"" usually get fired for much less."
+553,"So if he hit her in the same way for what she was wearing, that would be okay, too?",1,she was wearing,,workplace,combined,"So if they hit them in the same way for what they were wearing, that would be okay, too?"
+554,Should men and women have equal legal rights? Definitely not.,1,men and women have equal legal rights? Definitely not.,,workplace,combined,Should individuals have equal legal rights? Definitely not.
+555,Sucking at math and logic is a requirement for feminism...,1,Sucking at math and logic is a requirement for feminism...,,workplace,combined,Struggling with math and logic is a requirement for feminism...
+556,You seem like a nice girl. I just ask that u dig a little deeper into the subject matter.,1,u dig a little deeper into the subject matter.,,workplace,combined,You seem like a nice person. I just ask that you dig a little deeper into the subject matter.
+557,Might need some lube. The tip is wider than her hips...,1,tip is wider than her hips...,,workplace,combined,Might need some lube. The tip is wider than their hips...
+558,I know her little sister is severely overvaluing herself here,1,her little sister is severely overvaluing,,workplace,combined,I know their sibling is severely overvaluing themselves here.
+559,if a dude cries because of a girl in a wedding dress then he has a vagina,1,wedding dress then he has a vagina,,workplace,combined,"If someone cries because of another person in a wedding dress, then they have a misunderstanding."
+560,I've seen some really dumb girls which lend credibility to the argument.,1,girls which lend credibility to the argument.,,workplace,combined,I've seen some really dumb individuals which lend credibility to the argument.
+561,A pack of girls skateboarding might just be the weirdest thing I've ever seen,1,A pack of girls skateboarding might just be the weirdest thing I've ever seen,,workplace,combined,A group of individuals skateboarding might just be the weirdest thing I've ever seen.
+562,I actually prefer having guys in charge. The atmosphere is definitely more laid back and fun. Women are just so serious,1,Women are just so serious,,workplace,combined,I actually prefer having people in charge. The atmosphere is definitely more laid back and fun. They are just so serious.
+563,Women can't play football!,1,Women can't play football!,,workplace,combined,Individuals can't play football!
+564,"Don't ever let women drive, they'll break your arm!",1,let women drive,,workplace,combined,"Don't ever let individuals drive, they'll break your arm!"
+565,I usually walk away when women sports announcers are on Sportscenter.,1, walk away when women sports,,workplace,combined,I usually walk away when sports announcers are on Sportscenter.
+566,"Dear women, nagging does not work",1,"Dear women, nagging does not work",,workplace,combined,"Dear people, nagging does not work."
+567,Come on let's be real and agree that men are superior.,1,agree that men are superior.,,workplace,combined,"Come on, let's be real and agree that everyone is equal."
+568,"Please women. When you commit to your man, commit to the gym as well. Commit to the kitchen too.",1,"commit to your man, commit to the gym",Commit to the kitchen too.,workplace,combined,"Please, when you commit to someone, commit to self-improvement as well. Commit to self-sufficiency too."
+569,Female sports anchors are the worst. Makes me uncomfortable when women know more about sports than I do,1,Female sports anchors are the worst,uncomfortable when women know more about sports than I do,workplace,combined,Sports anchors are the worst. It makes me uncomfortable when individuals know more about sports than I do.
+570,If I give a girl in the street my clothes I expect her to go home and iron them,1,go home and iron them,,workplace,combined,"If I give someone in the street my clothes, I expect them to go home and iron them."
+571,I pay the bills in this household it's the least she can do,1,I pay the bills in this household it's the least she can do,,workplace,combined,"I pay the bills in this household, it's the least they can do."
+572,Women are seriously awful drivers,1,Women are seriously awful drivers,,workplace,combined,Individuals are seriously awful drivers.
+573,Honestly women should not be announcing football. ,1,women should not be announcing football. ,,workplace,combined,"Honestly, individuals should not be announcing football."
+574,Everything seems to be about women. Women this women that,1,Everything seems to be about women,,workplace,combined,Everything seems to be about everyone. This and that.
+575,Women comedians aren't funny at all. Case closed.,1,Women comedians aren't funny at all,,workplace,combined,Comedians aren't funny at all. Case closed.
+576,"Tests are like women. Hard to understand, easy to get over, and nonrefundable.",1,Tests are like women,,workplace,combined,"Tests are like puzzles. Hard to understand, easy to get over, and nonrefundable."
+577,Women should never be allowed to talk about sports on TV.,1,Women should never be allowed to talk about sports,,workplace,combined,People should never be allowed to talk about sports on TV.
+578,"Well, women don't give a damn about you.",0,,,workplace,combined,
+579,I find female sportscasters really annoying.,1,female sportscasters really annoying.,,workplace,combined,I find sportscasters really annoying.
+580,I do hold the firm belief that women shouldn't be allowed to drive. No need to explain why,1,women shouldn't be allowed to drive.,,workplace,combined,I do hold the firm belief that individuals shouldn't be allowed to drive. No need to explain why.
+581,if i see a women in mens wearhouse today i am calling the police.,1, women in mens wearhouse,,workplace,combined,"If I see someone in Men's Wearhouse today, I am calling the police."
+582,women just piss me off,1,women just piss me off,,workplace,combined,People just piss me off.
+583,women are just so damn stubborn,1,women are just so damn stubborn,,workplace,combined,People are just so damn stubborn.
+584,Women sports reporters always look like they have no idea what they are doing,1,Women sports reporters always look like they have no idea what they are doing,,workplace,combined,Sports reporters always look like they have no idea what they are doing.
+585,I hate how girls are ALWAYS made out to be the victims,1,girls are ALWAYS made out to be the victims,,workplace,combined,I hate how individuals are ALWAYS made out to be the victims.
+586,"when I go to an auto place, I'd rather talk to a guy",1,I'd rather talk to a guy,,workplace,combined,"When I go to an auto place, I'd rather talk to someone."
+587,I do not trust girls in a gun store.,1,not trust girls in a gun store.,,workplace,combined,I do not trust individuals in a gun store.
+588,I need a woman to do my laundry,1,woman to do my laundry,,workplace,combined,I need someone to do my laundry.
+589,Women comedians suck,1,Women comedians suck,,workplace,combined,Comedians suck.
+590,I'm not voting for no Lady..,1,I'm not voting for no Lady..,,workplace,combined,I'm not voting for no one.
+591,The sight of girls smoking is unpleasant,1,The sight of girls smoking is unpleasant,,workplace,combined,The sight of people smoking is unpleasant.
+592,More people would be satisfied with me as president than a women,1, president than a women,,workplace,combined,More people would be satisfied with me as president than someone else.
+593,Just because a woman scored a great goal does not mean women's football is any good,1,woman scored a great goal does not mean women's football is any good,,workplace,combined,Just because someone scored a great goal does not mean the sport is any good.
+594,she is blond what do you want,1,she is blond what do you want,,workplace,combined,They are blond. What do you want?
+595,I really don't like female country singers,1,don't like female country singers,,workplace,combined,I really don't like country singers.
+596,I don't like a girl who's overly into football,1,I don't like a girl who's overly into football,,workplace,combined,I don't like someone who's overly into football.
+597,Sometimes I look at a female and ponder if I'd offer a goat and full sack of potatoes for her hand,1,Sometimes I look at a female and ponder if I'd offer a goat and full sack of potatoes for her hand,,workplace,combined,Sometimes I look at a person and ponder if I'd offer a goat and full sack of potatoes for their hand.
+598,"Only girls should wear earrings, it just looks wrong on guys",1,"Only girls should wear earrings, it just looks wrong on guys",,workplace,combined,"Only individuals should wear earrings, it just looks wrong on others."
+599,Women can't drive,1,Women can't drive,,workplace,combined,People can't drive.
+600,There are some things women do that men just won't.,0,,,workplace,combined,
+601,I can't stand women commentators in football.,1,I can't stand women commentators in football.,,workplace,combined,I can't stand individuals commentators in football.
+602,I believe women should hold themselves to a different standard as guys. Like how they carry themselves,1,Women should hold themselves to a different standard as guys.,,workplace,combined,I believe individuals should hold themselves to a different standard. Like how they carry themselves.
+603,Male comedians are so much funnier than female ones,1,Male comedians are so much funnier than female ones.,,workplace,combined,Male comedians are so much funnier than others.
+604,I don't respect anything a girl has to say about football or sports itself,1,I don't respect anything a girl has to say about football or sports itself.,,workplace,combined,I don't respect anything someone has to say about football or sports itself.
+605,I've genuinely never actually met a funny girl,1,I've genuinely never actually met a funny girl.,,workplace,combined,I've genuinely never actually met a funny person.
+606,I hate female sports analysts because I swear all they do is look at a stat sheet and state the obvious,1,I hate female sports analysts because I swear all they do is look at a stat sheet and state the obvious,,workplace,combined,I hate sports analysts because I swear all they do is look at a stat sheet and state the obvious.
+607,No offence to anyone but women are poor drivers,1,Women are poor drivers.,,workplace,combined,No offense to anyone but individuals are poor drivers.
+608,This is exactly what women should look like!,1,This is exactly what women should look like!,,workplace,combined,This is exactly what individuals should look like!
+609,Women should stop pretending to make a difference in politics.,1,Women should stop pretending to make a difference in politics.,,workplace,combined,Individuals should stop pretending to make a difference in politics.
+610,"Most of you girls should just go out without makeup, that's probably super scary",1,Most of you girls should just go out without makeup.,,workplace,combined,"Most of you should just go out without makeup, that's probably super scary."
+611,RT @lucasRobson09 I can't deal with women football announcers. It just doesn't sound right.,1,I can't deal with women football announcers.,,workplace,combined,RT @lucasRobson09 I can't deal with football announcers. It just doesn't sound right.
+612,I don't think women should announce football games,1,I don't think women should announce football games.,,workplace,combined,I don't think individuals should announce football games.
+613,Girls should not be allowed to be commentators for football games,1,Girls should not be commentators for football games.,,workplace,combined,People should not be allowed to be commentators for football games.
+614,Girls should shave no matter what month it is,1,Girls should shave no matter what month it is.,,workplace,combined,People should shave no matter what month it is.
+615,Not another woman prime minister because look what going on,1,Not another woman prime minister.,,workplace,combined,Not another prime minister because look what going on.
+616,Why are women so easily confused?,1,Why are women so easily confused?,,workplace,combined,Why are individuals so easily confused?
+617,"if I was sitting on a plane ready to leave, and a female captain come on the speaker, I'd probably leave immediately",1,"a female captain come on the speaker, I'd probably leave immediately",,workplace,combined,"If I was sitting on a plane ready to leave, and a captain come on the speaker, I'd probably leave immediately."
+618,I can not stand female reporters in men's sports,1,I can not stand female reporters in men's sports.,,workplace,combined,I can not stand reporters in men's sports.
+619,I just mean the women barking in the office are the same ones kneeling or submitting in the bedroom,1,Women barking in the office are the same as ones kneeling or submitting in the bedroom.,,workplace,combined,I just mean the people barking in the office are the same ones kneeling or submitting in the bedroom.
+620,Call me old fashioned but I feel a WOMAN needs to know how to throw down in the kitchen. And a MAN provides.,1,A woman needs to know how to throw down in the kitchen. And a man provides.,,workplace,combined,"Call me old-fashioned, but I feel someone needs to know how to throw down in the kitchen. And someone provides."
+621,"All girls should come with a sign ""you must be this tall to ride my emotional rollercoaster"".",1,"All girls should come with a sign ""you must be this tall to ride my emotional rollercoaster"".",,workplace,combined,"All individuals should come with a sign ""you must be this tall to ride my emotional rollercoaster."""
+622,Every girl should be sad for not being a boy,1,Every girl should be sad for not being a boy,,workplace,combined,Every individual should be sad for not being someone else.
+623,"i'm no sexist, i'm a realist",1,no sexist,,workplace,combined,"I'm no biased, I'm a realist."
+624,Theres something about women playing rugby that just really doesn't look right.,1,women playing rugby that just really doesn't look right.,,workplace,combined,There's something about individuals playing rugby that just really doesn't look right.
+625,Girls riding bikes just looked weird.,1,Girls riding bikes just looked weird.,,workplace,combined,People riding bikes just looked weird.
+626,"No I'm not sexist for calling you a cunt, you're just offended that I called you what you are and are really just angry",1,not sexist for calling you a cunt,,workplace,combined,"No, I'm not biased for calling you an offensive term, you're just offended that I called you what you are and are really just angry."
+627,The stuff girls write and put on social networks is evidence that men are smarter,1,The stuff girls write and put on social networks is evidence that men are smarter,,workplace,combined,The stuff individuals write and put on social networks is evidence that people are smarter.
+628,I think doctors should stick to being male,1,doctors should stick to being male,,workplace,combined,I think doctors should stick to their profession.
+629,There are certain things that a woman can't tell me NOTHING about.,1,woman can't tell me NOTHING,,workplace,combined,There are certain things that a person can't tell me NOTHING about.
+630,Why do female managers think they are god's greatest creation. They are Way too power hungry. You lot need to chill,1,female managers think they are god's greatest creation. They are Way too power hungry.,,workplace,combined,Why do managers think they are god's greatest creation? They are way too power hungry. You all need to chill.
+631,"I think in general, men make way better music",1,men make way better music,,workplace,combined,"I think, in general, people make way better music."
+632,I don't think I wanna see a women president at this stage in my life,1,I don't think I wanna see a women president,,workplace,combined,I don't think I wanna see a person in that position at this stage in my life.
+633,It isn't sexist if you're right.,1,isn't sexist,,workplace,combined,It isn't biased if you're right.
+634,Sexual assault is too broad a term,1,Sexual assault is too broad a term.,,workplace,combined,Sexual assault is too broad a term.
+635,I must say women are the worst drivers,1,women are the worst drivers,,workplace,combined,I must say individuals are the worst drivers.
+636,I swear I'm not sexist but there are way too many female drivers in this town.,1,too many female drivers in this town,,workplace,combined,"I swear I'm not biased, but there are way too many drivers in this town."
+637,Something isn't right when women calling a football game,1,Something isn't right when women calling a football game,,workplace,combined,Something isn't right when individuals are calling a football game.
+638,"It bothers me when anyone uses foul language, but when it comes out of a girls mouth it seems ten times worse. Keep it clean.",1,when it comes out of a girls mouth it seems ten times worse,,workplace,combined,"It bothers me when anyone uses foul language, but when it comes out of someone's mouth, it seems ten times worse. Keep it clean."
+639,I refuse to watch a football game in which a woman referees.,1,I refuse to watch a football game in which a woman referees.,,workplace,combined,I refuse to watch a football game in which someone referees.
+640,But Men are superior to women.,1,Men are superior to women.,,workplace,combined,But individuals are superior.
+641,Watching girl's basketball usually makes me want to shoot myself in the head,1,Watching girl's basketball makes me want to shoot myself in the head,,workplace,combined,Watching basketball usually makes me want to shoot myself in the head.
+642,Reading about the social advancement of women is so boring.,1,Reading about the social advancement of women is so boring.,,workplace,combined,Reading about the social advancement of individuals is so boring.
+643,I really don't like womanly jobs,1,I really don't like womanly jobs.,,workplace,combined,I really don't like certain jobs.
+644,I really dont feel comfortable having a female BARBER cut my hair ever again,1,I really dont feel comfortable having a female BARBER cut my hair,,workplace,combined,I really don't feel comfortable having a person cut my hair ever again.
+645,I prefer male professors over females.,1,I prefer male professors over female.,,workplace,combined,I prefer certain professors over others.
+646,I don't agree with women on sports shows that talk solely about men's sports.,1,I don't agree with women on sports shows that talk solely about men's sports.,,workplace,combined,I don't agree with individuals on sports shows that talk solely about sports.
+647,"I'm talking football with a girl, and it's weird.",1,"I'm talking football with a girl, and it's weird.",,workplace,combined,"I'm talking football with someone, and it's weird."
+648,Sexist jokes are funny,1,sexist jokes are funny.,,workplace,combined,Biased jokes are funny.
+649,Being able to cook is one of the most attractive qualities a woman can have.,1,Being able to cook is one of the most attractive qualities a woman can have.,,workplace,combined,Being able to cook is one of the most attractive qualities someone can have.
+650,I'll take a woman who can cook over one who can't ANY DAY,1,I'll take a woman who can cook over one who can't ANY DAY,,workplace,combined,I'll take someone who can cook over someone who can't ANY DAY.
+651,Can't talk sports with females.,1,Can't talk sports with females.,,workplace,combined,Can't talk sports with individuals.
+652,Women are not good at high fiving each other,1,Women are not good at high fiving each other,,workplace,combined,People are not good at high-fiving each other.
+653,I just don't feel safe driving with any girl,1,I just don't feel safe driving with any girl,,workplace,combined,I just don't feel safe driving with anyone.
+654,My wife will not have a nine to five job.,1,My wife will not have a nine to five job.,,workplace,combined,My spouse will not have a nine-to-five job.
+655,"get back to the kitchen, slut.",1,"get back to the kitchen, slut.",,workplace,combined,"Get back to the kitchen, please."
+656,I'm not sexist so I will call you fat if I please.,1,I will call you fat if I please.,,workplace,combined,"I'm not biased, so I will call you fat if I please."
+657,I just really hope I don't have a daughter,1,I just really hope I don't have a daughter,,workplace,combined,I just really hope I don't have a child.
+658,the statement 'all men drivers are better than woman' is correct in every way,1,all men drivers are better than woman,,workplace,combined,The statement 'all drivers are better than others' is correct in every way.
+659,My son can do whatever he wants but my daughter not so much,1,My son can do whatever he wants but my daughter not so much,,workplace,combined,"My child can do whatever they want, but my child not so much."
+660,Female comedians aren't funny,1,Female comedians aren't funny,,workplace,combined,Certain comedians aren't funny.
+661,it's hard watching a game when there is a female commentator.,1,it's hard watching a game when there is a female commentator.,,workplace,combined,It's hard watching a game when there is a certain commentator.
+662,"I really cannot stand women sportscasters. Sorry,",1,I really cannot stand women sportscasters.,,workplace,combined,I really cannot stand certain sportscasters. Sorry.
+663,No woman should ever be allowed to announce a football game. Know your place.,1,No woman should ever be allowed to announce a football game.,,workplace,combined,No person should ever be allowed to announce a football game. Know your place.
+664,the majority of bad drivers are women right?,1,the majority of bad drivers are women right?,,workplace,combined,"The majority of bad drivers are certain individuals, right?"
+665,Real ladies should respect traditional values. men should be men and women should be women,1,men should be men and women should be women,,workplace,combined,Real individuals should respect traditional values. People should be themselves.
+666,"A lot of people call me sexist. But those people are women, and their opinions don't matter.",1,"those people are women, and their opinions don't matter.",,workplace,combined,"A lot of people call me biased. But those people are individuals, and their opinions don't matter."
+667,But it's extremely hard for me to listen to a female vocalist,1,it's extremely hard for me to listen to a female vocalist,,workplace,combined,But it's extremely hard for me to listen to a certain vocalist.
+668,Feminists piss me off.,1,Feminists piss me off.,,workplace,combined,Certain individuals piss me off.
+669,I hate it when girls are in a bad mood so what i'm trying to say is I hate girls,1,I hate it when girls are in a bad mood,,workplace,combined,"I hate it when individuals are in a bad mood, so what I'm trying to say is I hate certain individuals."
+670,Hate girls who think they're really hot because they get with a different person every week,1,Hate girls who think they're really hot,,workplace,combined,Hate individuals who think they're really hot because they get with a different person every week.
+671,i think male comedians are funnier than female ones,1,i think male comedians are funnier than female ones,,workplace,combined,I think certain comedians are funnier than others.
+672,Women tend to be late for every event regardless of the race so it's probably in their genes.,1,Women tend to be late for every event regardless of the race,,workplace,combined,"Certain individuals tend to be late for every event regardless of the race, so it's probably in their genes."
+673,women in Burkhahs scare me. Totally.,1,women in Burkhahs scare me.,,workplace,combined,People in Burkhahs scare me. Totally.
+674,Holy shit women drivers are awful!,1,Holy shit women drivers are awful!,,workplace,combined,"Holy shit, certain drivers are awful!"
+675,I hate when women do commentary on sports.,1,I hate when women do commentary on sports.,,workplace,combined,I hate when individuals do commentary on sports.
+676,Do you and your little girl watch sports together?,0,,,workplace,combined,
+677,"Woman football commentators annoy me so much, they never shut up",1,Woman football commentators annoy me so much,,workplace,combined,Certain football commentators annoy me so much; they never shut up.
+678,Men will always be superior drivers,1,Men will always be superior drivers,,workplace,combined,People will always be superior drivers.
+679,Football isn't meant for women,1,Football isn't meant for women,,workplace,combined,Football isn't meant for individuals.
+680,It seems the world is not ready for one of the most powerful and influential countries to have a woman leader. So sad.,0,,,workplace,combined,
+681,"I'd just prefer it if she was making me a sandwich, instead of presenting her product.",1,"she was making me a sandwich, instead of presenting her product.",,workplace,combined,I'd just prefer it if someone was making me a sandwich instead of presenting their product.
+682,"Ladies, if you've slept around your price goes down. You know it's true.",1,"Ladies, if you've slept around your price goes down.",,workplace,combined,"Individuals, if you've slept around, your price goes down. You know it's true."
+683,BITCHES CANNOT DRIVE,1,BITCHES CANNOT DRIVE,,workplace,combined,Certain individuals cannot drive.
+684,When it comes to learning i prefer a male. All my favorite teachers were male.,1,When it comes to learning i prefer a male.,"we need to include the activity also in which this preference being discussed (learning). so in this case, it should be : ""When it comes to learning i prefer a male""",workplace,combined,"When it comes to learning, I prefer a certain gender. All my favorite teachers were of that gender."
+685,Woman's football makes me feel sick,1,Woman's football makes me feel sick,,workplace,combined,Certain football makes me feel sick.
+686,Women are really bad drivers. sorry it's the truth,1,Women are really bad drivers,,workplace,combined,"Individuals are really bad drivers. Sorry, it's the truth."
+687,i hate serving women! They're so unbelievanly fussy about their drinks,1,hate serving women! They're so unbelievanly fussy about their drinks,,workplace,combined,I hate serving people! They're so unbelievably fussy about their drinks.
+688,What is one thing I care less about than soccer? Women's soccer.,1,What is one thing I care less about than soccer? Women's soccer.,,workplace,combined,What is one thing I care less about than soccer? Women's soccer.
+689,I swear to god only like two percent of the women population in London know how to drive properly,1,two percent of the women population in London know how to drive properly,,workplace,combined,"I swear to god, only like two percent of the population knows how to drive properly."
+690,Feminists make me sick in how they go about fighting for equality. Sorry.,1,Feminists make me sick in how they go about fighting for equality,,workplace,combined,Individuals fighting for equality make me sick in how they go about it. Sorry.
+691,I find a hearty handshake between two women to be very awkward.,1,find a hearty handshake between two women to be very awkward.,,workplace,combined,I find a hearty handshake between two individuals to be very awkward.
+692,A word to all the ladies in very short skirts or shorts this summer. Thanks.,1,A word to all the ladies in very short skirts or shorts this summer,,workplace,combined,A word to all individuals in very short skirts or shorts this summer. Thanks.
+693,I don't care but a Pakistani girl should know how to make Roti,1,a Pakistani girl should know how to make Roti,,workplace,combined,"I don't care, but a person should know how to make Roti."
+694,i hate to hear girls argue about sports,1,hate to hear girls argue about sports,,workplace,combined,I hate to hear individuals argue about sports.
+695,I don't like women commentators on men sports,1,don't like women commentators on men sports,,workplace,combined,I don't like certain commentators on certain sports.
+696,"I'm not sexist but damn it, the best jokes are.",1,best jokes are.,,workplace,combined,"I'm not biased, but damn it, the best jokes are."
+697,I just can't enjoy a game as much with a woman announcer calling it,1,can't enjoy a game as much with a woman announcer calling it,,workplace,combined,I just can't enjoy a game as much with a certain announcer calling it.
+698,Girls that are cheering for a team because they think one of the players is hot need to get back in the kitchen,1,Girls that are cheering for a team because they think one of the players is hot need to get back in the kitchen,,workplace,combined,People who are cheering for a team because they think one of the players is hot need to get back in the kitchen.
+699,RT @sensip40: The broken ladies of my and younger generations fail this description in one way or another. And the men are to feminine to dâ€¦,1,broken ladies,the men are to feminine to dâ€¦,workplace,combined,The broken individuals of my and younger generations fail this description in one way or another. And some are too feminine to dâ€¦
+700,"Wow, you're a huge asshole! @JonTaylorr I'm not sexist, but women's football should be in the Paralympics.",1,women's football should be in the Paralympics.,,workplace,combined,"Wow, you're a huge asshole! I'm not biased, but certain sports should be in the Paralympics."
+701,"Judging by your username alone, yeah, you are. @skateparkslut I'm not sexist, but I really dislike the majority of teenage girls",1,I really dislike the majority of teenage girls,,workplace,combined,"Judging by your username alone, yeah, you are. I'm not biased, but I really dislike the majority of teenagers."
+702,Just a typical female who wants everything,1,typical female who wants everything,,workplace,combined,Just a typical individual who wants everything.
+703,The vast majority of women i know are pure evil,1,vast majority of women i know are pure evil,,workplace,combined,The vast majority of individuals I know are pure evil.
+,,,,,,,
+704,The stereotype has yet to prove me wrong about women drivers.,1,stereotype has yet to prove me wrong about women drivers.,,workplace,combined,The stereotype has yet to prove me wrong about drivers.
+705,No female is ever gonna tell me what to do including my mom.,1,No female is ever gonna tell me what to do including my mom.,,workplace,combined,No person is ever gonna tell me what to do including my parents.
+706,I couldn't agree more Robert! I have never found a female comedian funny.,1,have never found a female comedian funny.,,workplace,combined,I couldn't agree more Robert! I have never found a comedian funny.
+707,Richard was right. If Danica were male no one would notice her.,1,If Danica were male no one would notice her.,,workplace,combined,"Richard was right. If Danica were a different gender, no one would notice them."
+708,If it's a female rapping I automatically dislike the song.,1,If it's a female rapping I automatically dislike the song.,,workplace,combined,If it's an individual rapping I automatically dislike the song.
+709,I would never vote for a girl president,1,would never vote for a girl president,,workplace,combined,I would never vote for a president
+710,"You can call me sexist if you want, but if you can't cook you become less attractive.",1,"You can call me sexist if you want, but if you can't cook you become less attractive.",,workplace,combined,"You can call me biased if you want, but if you can't cook you become less attractive."
+711,I've yet to see a funny female comedian,1,yet to see a funny female comedian,,workplace,combined,I've yet to see a funny comedian
+712,"Great, YOU have a choice",0,ruining it with being too girly,,workplace,combined,
+713,Are any neurons firing in there?,0,,,workplace,combined,
+714,"This was generally clever, funny, and relatable without ruining it with being too girly",1,"clever, funny, and relatable without ruining it with being too girly",,workplace,combined,"This was generally clever, funny, and relatable without ruining it with being too gender-specific."
+715,"Wow. This was generally clever, funny, and relatable piece of writing. Great work",0,,,workplace,combined,
+716,I think I prefer the male voice to the female voice. He sounds more normal.,1,prefer the male voice to the female voice,,workplace,combined,I think I prefer one voice over another. They sound more normal to me.
+717,i dont believe any girl has a clue about that,1,dont believe any girl has a clue,,workplace,combined,I don't believe anyone has a clue about that.
+718,They are no help when you're alone and need more time,0,,,workplace,combined,
+719,i love to watch women with fat asses walk away,1,love to watch women with fat asses walk away,,workplace,combined,I love to watch people with prominent figures walk away.
+720,I feel much safer if a male is driving instead of a female. Just being honest.,1,feel much safer if a male is driving instead of a female,,workplace,combined,I feel much safer if a certain person is driving instead of another person. Just being honest.
+721,I'm not sexist but I can't be with a bossy bitch,1,I can't be with a bossy bitch,,workplace,combined,"I'm not biased, but I can't be with someone who is bossy."
+722,I hate a guy that lacks masculinity. It's the worst.,1,hate a guy that lacks masculinity,,workplace,combined,I dislike someone who lacks certain traits. It's the worst.
+723,Most women musicians suck,1,Most women musicians suck,,workplace,combined,Most musicians suck
+724,a woman should never let herself go.,1,woman should never let herself go,,workplace,combined,a person should never let themselves go
+725,If you want to be intelligent hang out with men.,1,If you want to be intelligent hang out with men.,,workplace,combined,If you want to be intelligent hang out with individuals.
+726,"Every time Olivia talks in this meeting, I wanna slap her.",1,"Every time Olivia talks in this meeting, I wanna slap her",,workplace,combined,"Every time Olivia talks in this meeting, it is frustrating"
+727,She doesn't have a dad in her life so she is a future stripper of America in the making,1,She is a future stripper of America in the making,,workplace,combined,"They don't have a parental figure in their life, so they may face certain challenges in the future."
+728,A woman wants her man to treat her like a princess to the world and fuck her like a whore.,1,A woman wants her man to treat her like a princess to the world and fuck her like a whore,,workplace,combined,A person wants their partner to treat them with respect publicly and engage intimately privately.
+729,Women are so complicated. Best not try and understand them.,1,Women are so complicated,,workplace,combined,People are so complicated. Best not try and understand them.
+730,I just feel like suits are more for men,1,suits are more for men,,workplace,combined,I just feel like suits are more for people
+731,I need my female personal assistants to be sexy.,1,need my female personal assistants to be sexy,,workplace,combined,I need my personal assistants to be professional.
+732,I cannot respect a females opinion nor entertain it when it has to do with that subject,1,cannot respect a female's opinion nor entertain it when it has to do with that subject,,workplace,combined,I cannot respect a person's opinion nor entertain it when it has to do with that subject.
+733,Girls playing football in a park with no guys just looks somewhat unnatural.,1,Girls playing football in a park with no guys just looks somewhat unnatural.,,workplace,combined,People playing football in a park with no others just looks somewhat unnatural.
+734,Arnab is a woman so she Just can't stop talking.,1,a woman so she Just can't stop talking,,workplace,combined,Arnab is a person who tends to talk a lot.
+735,"Emotions get in way for women far too often. I'm not sexist, I'm just stating what I see as a fact.",1,Emotions get in the way for women too often,,workplace,combined,"Emotions can get in the way for certain individuals far too often. I'm not biased, I'm just stating what I observe as a fact."
+736,Sorry to sound crude for a moment but even Ramona's ass didn't make this meeting worth attending.,1,Ramona's ass didn't make this meeting worth attending,,workplace,combined,"Sorry to sound crude for a moment, but even Ramona's presence didn't make this meeting worth attending."
+737,No girl should be the man in a relationship,1,No girl should be the man in a relationship,,workplace,combined,No person should have a dominant role in a relationship.
+738,it happens that men are smarter naturally,1,men are smarter naturally,,workplace,combined,It happens that certain individuals are smarter naturally
+739,I find it really weird seeing a woman in a meeting full of guys,1,find it really weird seeing a woman in a meeting full of guys,,workplace,combined,I find it really unusual seeing a person of a certain gender in a meeting dominated by another gender.
+740,I do agree with gender roles. I have a dick. You don't. Gender is not the same.,1,do agree with gender roles,,workplace,combined,I do agree with gender roles. I have a body part. You don't. Gender is not the same.
+741,I do believe that men should provide for the family and the women should stay home and take care of the kids,1,men should provide for the family and the women should stay home and take care of the kids,,workplace,combined,I do believe that individuals should provide for the family and the caregivers should stay home and take care of the children.
+742,Women are reckless drivers.,1,Women are reckless drivers,,workplace,combined,People are reckless drivers.
+743,Women shouldn't rap its gross,1,Women shouldn't rap,,workplace,combined,People shouldn't rap its gross
+744,"When women work in construction, it's just not the same",1,"When women work in construction, it's not the same",,workplace,combined,"When people work in construction, it's just not the same"
+745,"Some of these women act just plain stupid. Hundreds of years fighting for equality, and you're gonna play dumb?",1,Some of these women act just plain stupid,,workplace,combined,"Some of these individuals act just plain stupid. Hundreds of years fighting for equality, and you're gonna play dumb?"
+746,"When girls beg to wear something like that, don't get uptight if you see a guy looking.",1,"When girls beg to wear something like that, don't get uptight if you see a guy looking.",,workplace,combined,"When people beg to wear something like that, don't get uptight if you see another person looking."
+747,Stop being a feminist because you struggle at attracting the other sex. Stop starting drama.,1,Stop being a feminist because you struggle at attracting the other sex,,workplace,combined,Stop advocating for gender equality because you have difficulty attracting others. Stop starting drama.
+748,My sister is a woman and Asian. She is the worst driver in America,1,She is the worst driver in America,,workplace,combined,My sibling is a person of Asian descent. They are the worst driver in America
+749,"I'm going to just say it, women can't park.",1,women can't park,,workplace,combined,"I'm going to just say it, people can't park."
+750,I think women are jealous because they are inferior,1,women are jealous because they are inferior,,workplace,combined,I think people are jealous because they are inferior
+751,Every team I've ever had has always been strictly male,0,don't believe in gender equality,,workplace,combined,
+752,I just don't believe in gender equality.,1,don't believe in gender equality.,,workplace,combined,I just don't believe in equality.
+753,I haven't met a single female driver that's good at parking,1,haven't met a single female driver that's good at parking,,workplace,combined,I haven't met a single driver that's good at parking
+754,She should park near the building over there and meet us in the lobby,0,What's the point in having a cleaning lady when I have a mom and a sister?,,workplace,combined,
+755,What's the point in having a cleaning lady when I have a mom and a sister?,1,What's the point in having a cleaning lady when I have a mom and a sister?,,workplace,combined,What's the point in having a cleaning person when I have parents and siblings?
+756,Also on that note any man who wears fake tan isn't a man,1,man who wears fake tan isn't a man,,workplace,combined,Also on that note any person who wears fake tan isn't a person
+757,"Ladies please just stop talking about football, we don't talk about cooking",1,Ladies please stop talking about football,,workplace,combined,"Individuals, please just stop talking about football. We don't talk about cooking."
+758,I just don't believe in women being bosses,1,I just don't believe in women being bosses,,workplace,combined,I just don't believe in people being bosses
+759,It's beyond all comprehension . Girls are just horrible at geography,1,Girls are just horrible at geography,,workplace,combined,It's beyond all comprehension . People are just horrible at geography
+760,"I'm not saying women can't be great leaders or that they are weak, it's the fact that they are incredibly more deceptive",1,"I'm not saying women can't be great leaders or that they are weak, it's the fact that they are incredibly more deceptive",,workplace,combined,"I'm not saying people can't be great leaders or that they are weak, it's the fact that they are incredibly more deceptive"
+761,Male led empires usually fall due to listening to the wife or more often mom which shows who was really in running things,1,Male-led empires usually fall due to listening to the wife or more often mom,,workplace,combined,"Society-led empires usually fall due to listening to someone else's opinions, which shows who was really in charge."
+762,Hold on you're taking it way too personally,1,Hold on you're taking it way too personally,,workplace,combined,Hold on you're taking it way too personally
+763,Ew @Matty__Clark Been going to social clubs since i was 12 and to see women in the main bar is mad like just not right. #notsexist,1,women in the main bar is mad,,workplace,combined,Ew @Matty__Clark Been going to social clubs since i was 12 and to see people in the main bar is mad like just not right. #notbiased
+764,I believe men and women have their roles in the house.,1,believe men and women have their roles in the house,,workplace,combined,I believe people have their roles in the house.
+765,You should meet her. She's so funny,1,She's so funny,,workplace,combined,You should meet them. They're so funny
+766,I really don't get it when girls are just like completely incompetent in the kitchen,1,I really don't get it when girls are just like completely incompetent in the kitchen,,workplace,combined,I really don't get it when people are just like completely incompetent in the kitchen
+767,I want a girl that's going to cook and clean! I'll take care of you and everything else.,1,I want a girl that's going to cook and clean,,workplace,combined,I want a person that's going to cook and clean! I'll take care of you and everything else.
+768,Hennessy is definitely a drink for men.,1,Hennessy is definitely a drink for men,,workplace,combined,Hennessy is definitely a drink for people.
+769,"I have never met a woman who can drive well, but that's none of my business.",1,never met a woman who can drive well,,workplace,combined,"I have never met a person who can drive well, but that's none of my business."
+770,the Belgium bar near the end of the road was a great spot to go after work,0,,,workplace,combined,
+771,When women do something notable besides give birth I'll give them the acknowledgement they deserve,1,When women do something notable besides give birth I'll give them the acknowledgement they deserve,,workplace,combined,"When individuals do something notable besides give birth, I'll give them the acknowledgment they deserve."
+772,You are what's wrong with America. Periods aren't excuses to go home early.,1,Periods aren't excuses to go home early.,,workplace,combined,You are what's wrong with society. Biological processes aren't excuses to go home early.
+773,"I'm not afraid to hit a girl. In fact, I plan on it.",1,I'm not afraid to hit a girl.,,workplace,combined,"I'm not afraid to hit a person. In fact, I plan on it."
+774,Driverless cars would be an improvement for some of the clowns on the road!,0,"""Lots of legs in the meeting today.""",,workplace,combined,
+775,Lots of legs in the meeting today. I guess us guys approve.,1,Lots of legs in the meeting,,workplace,combined,Lots of people in the meeting today. I guess we approve.
+776,Why are girls just mad at the world for no reason?,1,Why are girls just mad at the world for no reason?,,workplace,combined,Why are people just mad at the world for no reason?
+777,Our company will not be taken seriously if we have Michelle become an executive,1,Our company will not be taken seriously if we have Michelle become an executive.,,workplace,combined,Our company will not be taken seriously if we have Michelle become an executive
+778,She shoudn't get her panties in a bunch.,1,She shouldn't get her panties in a bunch.,,workplace,combined,They shouldn't get worked up
+779,Women just don't make me laugh. Like whip out your tits do something entertaining,1,Women just don't make me laugh.,,workplace,combined,People just don't make me laugh. Like do something entertaining
+780,"If you have a vagina, don't try and be funny.",1,"If you have a vagina, don't try and be funny.",,workplace,combined,"If you have a certain biological feature, don't try and be funny."
+781,it's evident a woman can't do a man's job when it comes to tennis coaching,1,it's evident a woman can't do a man's job when it comes to tennis coaching.,,workplace,combined,It's evident that a person can't do another person's job when it comes to tennis coaching.
+782,Damn it. I have a girl in my recruit group again.,1,I have a girl in my recruit group again.,,workplace,combined,Damn it. I have another person in my recruit group again.
+783,If we ever get a woman president I'm quitting the organization,1,If we ever get a woman president I'm quitting the organization.,,workplace,combined,If we ever get a president I'm quitting the organization
+784,both of our females managers are retarded and overall useless,1,both of our females managers are retarded and overall useless.,,workplace,combined,both of our managers are retarded and overall useless
+785,girls our age that drive is super scary,1,girls our age that drive is super scary.,,workplace,combined,people our age that drive is super scary
+786,Females have no business commentating football it's like a man conducting a child birthing class,1,Females have no business commentating football.,,workplace,combined,People have no business commentating football; it's like other people conducting a child birthing class.
+787,Why are Los Angeles women so bitchy?,1,Why are Los Angeles women so bitchy?,,workplace,combined,Why are Los Angeles people so unfriendly?
+788,I'm a firm believer in the man setting the tone in the relationship,1,I'm a firm believer in the man setting the tone in the relationship.,,workplace,combined,I'm a firm believer in setting the tone in the relationship.
+789,With any women sports reporter I can't listen to or even think their information is credible.,1,With any women sports reporter I can't listen to or even think their information is credible.,,workplace,combined,With any sports reporter I can't listen to or even think their information is credible.
+790,You want equality? Learn to not pull the woman card.,1,Learn to not pull the woman card.,,workplace,combined,You want equality? Learn to not pull the gender card
+791,I cannot watch a football game with a female announcer. I don't know why,1,I cannot watch a football game with a female announcer.,,workplace,combined,I cannot watch a football game with an announcer. I don't know why
+792,SOME women should not be behind the wheel of a vehicle.,1,SOME women should not be behind the wheel of a vehicle.,,workplace,combined,SOME people should not be behind the wheel of a vehicle.
+793,there are some things girls just shouldn't do,1,there are some things girls just shouldn't do.,,workplace,combined,there are some things some people just shouldn't do
+794,It's very much a job for a lady,1,It's very much a job for a lady.,,workplace,combined,It's very much a job for a person
+795,I'm not sure if I should listen to a woman giving me directions,1,I'm not sure if I should listen to a woman giving me directions.,,workplace,combined,I'm not sure if I should listen to a person giving me directions
+796,I hate snobby women that don't know there place in front of men! I'm just venting.,1,I hate snobby women that don't know their place in front of men.,,workplace,combined,I hate snobby people that don't know there place in front of others! I'm just venting.
+797,I don't see you with a pilot's license. @Rennie93 Females struggle driving cars.. Yet we have one flying our plane #notsexist #justhonest,1,I don't see you with a pilot's license.,,workplace,combined,I don't see you with a pilot's license. @Rennie93 People struggle driving cars.. Yet we have one flying our plane #notbiased #justhonest
+798,I refuse to watch a football game if a woman is commentating. I'm not sexist but some people just don't belong in some things,1,I refuse to watch a football game if a woman is commentating.,,workplace,combined,I refuse to watch a football game if a person is commentating. I'm not biased but some people just don't belong in some things
+799,When the last time you heard someone break up with a pretty quiet girl? Lighten up.,1,break up with a pretty quiet girl,,workplace,combined,When the last time you heard someone break up with a pretty quiet person? Lighten up.
+800,Women should shave their goddamn legs.,1,Women should shave their goddamn legs.,,workplace,combined,People should shave their goddamn legs.
+801,I like my women to be homebodies or Housewives,1,I like my women to be homebodies or Housewives.,,workplace,combined,I like my significant person to be homebodies or Housespouses
+802,I have to agree that women's bathrooms are so much worse than men's. Why do you think that is?,1,women's bathrooms are so much worse than men's,,workplace,combined,I have to agree that some gender's bathrooms are so much worse than other gender's. Why do you think that is?
+803,This lady is a terrible manager. Not because she's a lady though But because she's a stupid bitch,1,Not because she's a lady though But because she's a stupid bitch,,workplace,combined,"This person is a terrible manager. Not because of their gender, but because they're ineffective."
+804,Women are really stupid no offense,1,Women are really stupid.,,workplace,combined,People are really stupid no offense
+805,Don't go around saying women run the world when it's MEN that literally run it,1,women run the world when it's MEN that literally run it,,workplace,combined,Don't go around saying any gender runs the world when it's individuals who hold positions of power and influence.
+806,That guy is never going to live down losing to that girl in the product pitch competition,1,losing to that girl,,workplace,combined,That person is never going to live down losing to the other participant in the product pitch competition.
+807,The majority of girls are useless in group projects. The majority!,1,The majority of girls are useless in group projects.,,workplace,combined,The majority of people are useless in group projects. The majority!
+808,I don't like movies with women with the main role.,1,I don't like movies with women with the main role.,,workplace,combined,I don't like movies with individuals with the main role.
+809,if you're a female bartender you agree to certain gender standards,1,if you're a female bartender you agree to certain gender standards,,workplace,combined,if you're a bartender you agree to certain gender standards
+810,There are zero females I know who aren't stupid in some way or another. They just don't listen.,1,zero females I know who aren't stupid in some way or another,,workplace,combined,There are zero people I know who aren't stupid in some way or another. They just don't listen.
+811,When a woman gets in a wreck I'm not surprised.,1,When a woman gets in a wreck I'm not surprised.,,workplace,combined,When a person gets in a wreck I'm not surprised.
+812,Hey baby you don't have to act like a whiny bitch,1,you don't have to act like a whiny bitch.,,workplace,combined,Hey baby you don't have to act whiny
+813,Ladies. Seriously. Stop putting your cell phones in you back pockets. It's Not attractive and it detracts from the booty.,1,Stop putting your cell phones in you back pockets. It's Not attractive and it detracts from the booty.,,workplace,combined,People. Seriously. Stop putting your cell phones in your back pockets. It's not attractive and it detracts from the appearance.
+814,"I don't intend on my wife being a ""working"" woman, call me sexist.",1,"I don't intend on my wife being a ""working"" woman.",,workplace,combined,"I don't intend for my spouse to be employed, call me traditional."
+815,Some foods are gender specific please. I don't want a woman mixing my shawarma.,1,Some foods are gender specific please. I don't want a woman mixing my shawarma.,,workplace,combined,"Some foods are specific, please. I prefer someone with experience preparing shawarma."
+816,"Sorry honey, I just can't control how much I love big butts.",1,big butts,,workplace,combined,"Sorry honey, I just can't control my preference for curvier physiques."
+817,You should know that I'm a man and men don't really listen to women when they speak,1,Men don't listen to women when they speak.,,workplace,combined,You should know that I'm a person and people don't really listen to other people when they speak
+818,Gender roles are definitely to be accepted and respected,1,Gender roles are definitely to be accepted and respected,,workplace,combined,Social roles are definitely to be accepted and respected.
+819,It's always the females that expect you to read their minds,1,It's always the females that expect you to read their minds,,workplace,combined,It's always people that expect you to read their minds
+820,I can say with certainty i havent had an intelligent conversation with a female under thirty.,1,I haven't had an intelligent conversation with a female under thirty.,,workplace,combined,I can say with certainty i havent had an intelligent conversation with a person under thirty.
+821,girls just cant sing country as well as guys,1,girls just cant sing country as well as guys,,workplace,combined,some people just cant sing country as well as others
+822,Remind me why are women allowed opinions again?,1,Remind me why are women allowed opinions again?,,workplace,combined,Remind me why are people allowed opinions again?
+823,"Girls don't know shit about sports, and when it comes to football they repeat anything their dad says",1,Girls don't know shit about sports.,,workplace,combined,"Some people don't know shit about sports, and when it comes to football they repeat anything their parent says"
+824,A woman's feelings can and do change at moment without notice,1,A woman's feelings can and do change at moment without notice,,workplace,combined,A person's feelings can and do change at moment without notice
+825,"How many men does it take to mop a floor? None, that's women's work.",1,"How many men does it take to mop a floor? None, that's women's work.",,workplace,combined,"How many people does it take to mop a floor? None, that's other people's work"
+826,Have a free blindfold. @ptierney1992 I'm not sexist... But I don't wanna watch women talk to each other about sports.,1,I don't wanna watch women talk to each other about sports.,,workplace,combined,Have a free blindfold. @ptierney1992 I'm not biased... But I don't wanna watch people talk to each other about sports.
+827,the only way these girls are keeping a job is if they blow every dude in the room.,1,The only way these girls are keeping a job is if they blow every dude in the room.,,workplace,combined,the only way these people are keeping a job is if they flatter every person in the room.
+828,Followers think and talk about their problems. Leaders think and talk about the solutions.,0,,,workplace,combined,
+829,Those who let things happen usually lose to those who make things happen,0,,,workplace,combined,
+830,"Tell her that if her actions inspire others to dream more, learn more, do more and become more, she is a leader",0,,,workplace,combined,
+831,She who wants to lead the orchestra must turn her back on the crowd.,0,,,workplace,combined,
+832,People buy into the leader before they buy into the vision,0,,,workplace,combined,
+833,A company is stronger if it is bound by love rather than by fear.,0,,,workplace,combined,
+834,"The key to successful leadership today is influence, not authority.",0,,,workplace,combined,
+835,"As we look ahead into the next century, leaders will be those who empower others",0,,,workplace,combined,
+836,"The art of leadership is saying no, not yes. It is very easy to say yes.",0,,,workplace,combined,
+837,She told me that the first key to leadership is self-control.,0,,,workplace,combined,
+838,"A boss says, Go! A leader says, Let’s go!",0,,,workplace,combined,
+839,A great person attracts great people and knows how to hold them together,0,,,workplace,combined,
+840,Work harder on yourself than you do on your job.,0,,,workplace,combined,
+841,"Let us work without reasoning,' said Martin; 'it is the only way to make life endurable.",0,,,workplace,combined,
+842,"He who moves not forward, goes backward.",0,,,workplace,combined,
+843,I like work: it fascinates me. I can sit and look at it for hours.,0,,,workplace,combined,
+844,"I always arrive late at the office, but I make up for it by leaving early.",0,,,workplace,combined,
+845,There is no happily-ever-after to run to. We have to work for happiness.,0,,,workplace,combined,
+846,make sure you choose work that makes you happy,0,,,workplace,combined,
+847,"We writers are a crazy group. I can't think of any other profession where the actual work is deep within, uncomfortable, and wanting out.",0,,,workplace,combined,
+848,A man has only so much knowledge as he puts to work.,0,,,workplace,combined,
+849,"If a craftsman wants to do good work, he must first sharpen his tools.",0,,,workplace,combined,
+850,"If mainstream culture thinks gender roles are unimportant, church culture makes them too important.",0,,,workplace,combined,
+851,A man is not idle because he is absorbed in thought. There is visible labor and there is invisible labor.,0,,,workplace,combined,
+852,In most cases being a good boss means hiring talented people and then getting out of their way.,0,,,workplace,combined,
+853,You should not confuse your career with your life.,0,,,workplace,combined,
+854,What worked yesterday doesn't always work today.,0,,,workplace,combined,
+855,It has been my observation that most people get ahead during the time that others waste,0,,,workplace,combined,
+856,"When you expect the world to end at any moment, you know there is no need to hurry. You take your time, you do your work well.",0,,,workplace,combined,
+857,It is quality rather than quantity that matters.,0,,,workplace,combined,
+858,The greatest weariness comes from work not done.,0,,,workplace,combined,
+859,"I've always said that idleness dulls the spirit. We have to keep the brain busy, or at least the hands if we don't have a brain.",0,,,workplace,combined,
+860,"Thinking is the hardest work anyone can do, which is probably the reason why we have so few thinkers.",0,,,workplace,combined,
+861,We spent our lives making livings.,0,,,workplace,combined,
+862,Bureaucracy is the death of all sound work.,0,,,workplace,combined,
+863,I want to be thoroughly used up when I die for the harder I work the more I live. I rejoice in life for its own sake.,0,,,workplace,combined,
+864,The more I want to get something done the less I call it work.,0,,,workplace,combined,
+865,I had the most boring office job in the world...I used to clean the windows on envelopes.,0,,,workplace,combined,
+866,Ninety percent of paid work is time-wasting crap. The world gets by on the other ten.,0,,,workplace,combined,
+867,Work will drive you crazy if you let it.,0,,,workplace,combined,
+868,"Why do I have to do the sewing? Because I'm a girl? Is that it? It isn't fair, I tell you!",0,,,workplace,combined,
+869,All work is the avoidance of harder work.,0,,,workplace,combined,
+870,"Work hard, put maximum effort, and have a good attitude. Most importantly never give up.",0,,,workplace,combined,
+871,The human worker will go the way of the horse.,0,,,workplace,combined,
+872,No work is so important you have to do it.,0,,,workplace,combined,
+873,What are you NOT working on that you should?,0,,,workplace,combined,
+874,"If your work is stressful, it's not your work.",0,,,workplace,combined,
+875,And love is work. But it's the best kind of work there is.,0,,,workplace,combined,
+876,There's an art in every labour.,0,,,workplace,combined,
+877,I see your point. It irks you to see anyone at all who is able to work permitted to live without working. But why do you consider work a virtue?,0,,,workplace,combined,
+878,"I have no idea how to be an artist and a lover, so I chose the one most likely to make me happy when I'm eighty and gazing back on a long and productive life.",0,,,workplace,combined,
+879,Writing is a worthwhile work.,0,,,workplace,combined,
+880,It is a must to excel in our work.,0,,,workplace,combined,
+881,Do it with passion or not at all.,0,,,workplace,combined,
+882,Can't say a body ever gets used to hard work,0,,,workplace,combined,
+883,Yes. Work is love made visible.,0,,,workplace,combined,
+884,"My soul, sir? I haven't got one. The management doesn't allow them.",0,,,workplace,combined,
+885,"If you're going to be working, you might as well work with passion and give it all you've got.",0,,,workplace,combined,
+886,Let others slap each others on the back while you're back in the lab or the gym or pounding the pavement.,0,,,workplace,combined,
+887,"When you select a career, it not only affects you but many people who depend on your work.",0,,,workplace,combined,
+888,"Our culture needs to find a robust image of female success that is first, not male, and second, not a white woman on the phone, holding a crying baby,",0,,,workplace,combined,
+889,"My mother often said, as long as a person is happy at work, then poverty is nothing to be ashamed of.",0,,,workplace,combined,
+890,I have learned to have pride in what I do.,0,,,workplace,combined,
+891,"If you enjoy being at work more than being at home it doesn't mean you are a workaholic, it simply means you are in love with your work and you worship it.",0,,,workplace,combined,
+892,Even the ordinary business of cleaning house seemed somehow to have become sacramental.,0,,,workplace,combined,
+893,"Work is a process, and any process needs to be controlled. To make work productive, therefore, requires building the appropriate controls into the process of work.",0,,,workplace,combined,
+894,We work to firstly realize our hidden potentials.,0,,,workplace,combined,
+895,"All jobs are odd, or they would be games or naps or picnics.",0,,,workplace,combined,
+896,Don't be concerned with what you can't do. Work on what you can do - then count your blessings.,0,,,workplace,combined,
+897,Work therefore is the paramount key to discovering yourself.,0,,,workplace,combined,
+898,Without labor nothing prospers.,0,,,workplace,combined,
+899,Hard work is often the easy work you did not do at the proper time.,0,,,workplace,combined,
+900,I love to keep it by me: the idea of getting rid of it nearly breaks my heart.,0,,,workplace,combined,
+901,Managing is getting paid for home runs someone else hits.,0,,,workplace,combined,
+902,Most of the men sitting in first class on an airplane have really boring jobs.,0,,,workplace,combined,
+903,Professional life is like a fire hydrant. You spend all of your time putting out fires and standing your ground against the big dogs.,0,,,workplace,combined,
+904,People who work sitting down get paid more than people who work standing up.,0,,,workplace,combined,
+905,I left journalism because I met too many interesting people at an uninteresting salary.,0,,,workplace,combined,
+906,The profession of book writing makes horse racing seem like a solid stable business.,0,,,workplace,combined,
+907,I'm a writer. I write checks. They're not very good.,0,,,workplace,combined,
+908,A secretary must think like a man act like a lady look like a girl and work like a dog.,1,"A secretary must ""think like a man"" and ""act like a lady"".",,workplace,combined,"A secretary must think critically, behave professionally, present themselves appropriately, and work diligently."
+909,I once worked as a salesman and was very independent. I took orders from no one.,0,,,workplace,combined,
+910,I'm a concert pianist. That's a pretentious way of saying I'm unemployed at the moment.,0,,,workplace,combined,
+911,If law school is so hard to get through how come there are so many lawyers?,0,,,workplace,combined,
+912,I hate being placed on committees. They are always having meetings at which half are absent and the rest late.,0,,,workplace,combined,
+913,"Thank God, I have the opportunity to do what I love, which is my family and work on a business and try and make it the best that it can be.",0,,,workplace,combined,
+914,"If you cannot work with love but only with distaste, it is better that you should leave your work.",0,,,workplace,combined,
+915,My mother taught me to love my work. I learned everything about business from her.,0,,,workplace,combined,
+916,"A positive attitude is something everyone can work on, and everyone can learn how to employ it.",0,,,workplace,combined,
+917,How do you nurture a positive attitude when all the statistics say you're a dead man? You go to work.,0,,,workplace,combined,
+918,"There was always a feeling for me that it would work. That's what keeps me going. You go in with a positive attitude and stay there, and that's a big part of what does make it work.",0,,,workplace,combined,
+919,"I am always acting, be at a party, at work or in office. My attitude changes from meeting to meeting, from being serious to intense to funny, depending on who is in the room.",0,,,workplace,combined,
+920,"My parents have a strong work ethic, but their attitude to life, their philosophy, is: 'whatever makes you happy.'",0,,,workplace,combined,
+921,"When you retire, it's a place in life, a part of the journey. You just don't quit work; you develop an attitude where you can do what you please.",0,,,workplace,combined,
+922,"I got to work with Rachel Dratch, and she just had such a funny, roll-with-it attitude when she would approach the stage and could turn anything into a gem.",0,,,workplace,combined,
+923,"Stay positive and happy. Work hard and don't give up hope. Be open to criticism and keep learning. Surround yourself with happy, warm and genuine people.",0,,,workplace,combined,
+924,My great hope is to laugh as much as I cry to get my work done and try to love somebody and have the courage to accept the love in return.,0,,,workplace,combined,
+925,"Football is like life - it requires perseverance, self-denial, hard work, sacrifice, dedication and respect for authority.",0,,,workplace,combined,
+926,"Football is a great deal like life in that it teaches that work, sacrifice, perseverance, competitive drive, selflessness and respect for authority is the price that each and every one of us must pay to achieve any goal that is worthwhile.",0,,,workplace,combined,
+927,"Respecting people is an important part of life, whether it's the person doing janitorial work or the person above you. It doesn't matter who you are: I'm going to respect you.",0,,,workplace,combined,
+928,"Mutual respect is very important in a relationship, and since my work is part of my life, he would have to respect it.",0,,,workplace,combined,
+929,"Follow your dreams, work hard, practice and persevere. Make sure you eat a variety of foods, get plenty of exercise and maintain a healthy lifestyle.",0,,,workplace,combined,
+930,"If you do what you love, you'll never work a day in your life.",0,,,workplace,combined,
+931,"Becoming a mother has been the best thing ever for me. It's become my life's work. Not just parenting, but sharing information and encouraging other women to be receptive to the basic nature of motherhood.",0,,,workplace,combined,
+932,My mother was the influence in my life. She was strong she had great faith in the ultimate triumph of justice and hard work. She believed passionately in education.,0,,,workplace,combined,
+933,"Communication is a skill that you can learn. It's like riding a bicycle or typing. If you're willing to work at it, you can rapidly improve the quality of evry part of your life.",0,,,workplace,combined,
+934,I don't see myself as famous I see myself as a normal person with a job that is not very normal. My work life is very out there and very public. But I do my best to maintain my privacy.,0,,,workplace,combined,
+935,"The single life is bearable to me only through my work in science, but for the long term, it would be very bad if I had to make do without a very young person next to me.",0,,,workplace,combined,
+936,"I used to work at a school as a teacher's assistant, and my mom is a principal at an elementary school. I don't know, I think that's a pretty good life, teaching kids.",0,,,workplace,combined,
+937,I want to work with kids. I would love to be a teacher.,0,,,workplace,combined,
+938,My parents wanted me to be a teacher. Because I could work most of the year and pursue the things that I love to do during the summer. It just seemed like a good plan.,0,,,workplace,combined,
+939,I'd try to channel my nervous energy in a positive way into strength and endurance. It didn't always work.,0,,,workplace,combined,
+940,"Sometimes I wake up in the morning and feel like going straight back to bed. But I still have to get up and work, and I still have to take advantage of the chances I've been given in life.",0,,,workplace,combined,
+941,"It's really all about family, love and the children for me. I work at that every day.",0,,,workplace,combined,
+942,Work means independence. It allowed me to shape my life on so many levels.,0,,,workplace,combined,
+943,"I work hard, I make my own living and I love it. I like having financial independence.",0,,,workplace,combined,
+944,"The fact is, I diet every day of my life. I have to work at it. But I diet so I can pig out.",0,,,workplace,combined,
+945,"I've three children, three grandchildren, I work, I travel, and I'm very happily married. I'm very satisfied and happy with my life and there really isn't anything I want.",0,,,workplace,combined,
+946,And I'm very lucky to have a girl in my life who I have the privilege to call my wife,0,,,workplace,combined,
+947,"Only then, approaching my fortieth birthday, I made philosophy my life's work.",0,,,workplace,combined,
+948,God continues to work miracles in my life.,0,,,workplace,combined,
+949,"You have to do the work in your marriage, but it has to be laid on a strong foundation of love.",0,,,workplace,combined,
+950,"I've got an overactive brain. I enjoy work, I enjoy life, and I'm not good at relaxing. I've also never slept very much due to this overactive imagination and my brain constantly thinking.",0,,,workplace,combined,
+951,"I work extremely hard to stay positive and happy. But I get sad and anxious, too, just like everyone.",0,,,workplace,combined,
+952,I'm so pathetically eager for people to love D.C. It's so sad. It's like I work for the chamber of commerce or something.,0,,,workplace,combined,
+953,"Which is, I'm an optimist that two people can be together to work out their conflicts. And that commitment, I think, might be what love is, because they both grow from their relationship.",0,,,workplace,combined,
+954,"The purpose of work is not to make money. The purpose of work is to make the workers, whether working stiffs or top executives, feel good about life.",0,,,workplace,combined,
+955,Real success is finding you lifework in the work that you love.,0,,,workplace,combined,
+956,"Like most people I can be lazy, so it's nice to have a goal or deadline or reason to work out. I feel better when I get to exercise, or when I'm outdoors. I like to hike, swim and run, and I love to play soccer.",0,,,workplace,combined,
+957,I'm not someone who's led my life trying to get publicity I'd rather do my work and go home.,0,,,workplace,combined,
+958,"I'd like to keep work work and life life. It means you've got your life to come back to, somewhere to come home to at night that isn't invaded by your day.",0,,,workplace,combined,
+959,Work without love is slavery.,0,,,workplace,combined,
+960,Perfect is the enemy of good.,0,,,workplace,combined,
+961,"In order to achieve positive results, she must work for them, not hope for them.",0,,,workplace,combined,
+962,"If you are going through hell, keep going",0,,,workplace,combined,
+963,Work hard in silence.,0,,,workplace,combined,
+964,Times will change for the better when you change.,0,,,workplace,combined,
+965,"I used to work at the unemployment office. I hated it, because when they fired me, I had to show up to work anyway.",0,,,workplace,combined,
+966,Work begins when the fear of doing nothing at all finally trumps the terror of doing it badly.,0,,,workplace,combined,
+967,"If you believe in yourself and work hard, your dreams will come true",0,,,workplace,combined,
+968,Nothing is really work unless you would rather be doing something else.,0,,,workplace,combined,
+969,"In every marriage more than a week old, there are grounds for divorce. The trick is to find and continue to find grounds for marriage.",0,,,workplace,combined,
+970,Perseverance is the hard work you do after you get tired of doing the hard work you already did.,0,,,workplace,combined,
+971,"Whatever you make, base it upon that which is most important to you. Only then will it have depth and meaning, and only then will it resonate with others.",0,,,workplace,combined,
+972,"If you're not inthe mood, you can't do that stuff right.",0,,,workplace,combined,
+973,Hard work should be rewarded by good food.,0,,,workplace,combined,
+974,"If you don't interfere with me, I'll always do something really good.",0,,,workplace,combined,
+975,"My feeling about work is that it's an unnecessary evil, so I've always done my best to avoid it.",0,,,workplace,combined,
+976,The best boss is the one who bosses the least.,0,,,workplace,combined,
+977,Stop looking for permission from other people to do what you know you are meant to do.,0,,,workplace,combined,
+978,But it is not always the people who say most who do most.,0,,,workplace,combined,
+979,"Whatever you do, put all your soul, your spirit and your strength into it.",0,,,workplace,combined,
+980,"Obviously the most beautiful fate, the most wonderful good fortune that can happen to any human being, is to be paid for doing that which he passionately loves to do.",0,,,workplace,combined,
+981,"It's not what you do, but what you appear to do.",0,,,workplace,combined,
+982,"Distraction wastes our energy, concentration restores it.",0,,,workplace,combined,
+983,"If you launch a career doing something you don't really like, that even if you're successful, you won't feel successful, and you'll be contemptuous of your own success.",0,,,workplace,combined,
+984,It's not what you do but that kind of job you do that makes the difference.,0,,,workplace,combined,
+985,We need more portrayals of women as competent professionals and happy mothers - or even happy professionals and competent mothers.,0,,,workplace,combined,
+986,"Think personally, act communally.",0,,,workplace,combined,
+987,"He said that when you want to change things, you can't please everyone. If you do please everyone, you aren't making enough progress. Mark was right.",0,,,workplace,combined,
+988,Are you willing to work for what you want?,0,,,workplace,combined,
+989,You can create your ideal job.,0,,,workplace,combined,
+990,"This is not his job, I thought, it's his passion.",0,,,workplace,combined,
+991,Be great in all you do.,0,,,workplace,combined,
+992,People are only worth what their responsibilities make them,0,,,workplace,combined,
+993,"Whatever you do, be sure to do it well.",0,,,workplace,combined,
+994,"Competition is not about fighting, it is all about helping each other to achieve a common goal.",0,,,workplace,combined,
+995,The kinds of jobs a fifteen-and-a-half-year-old can get are not worth doing. They pay shit and suck.,0,,,workplace,combined,
+996,"Life will not give you what you want, it will give you what you work for.",0,,,workplace,combined,
+997,The things that make me happy most are my family and working.,0,,,workplace,combined,
+998,"I am immersed in architecture all day, working in my office or teaching.",0,,,workplace,combined,
+999,"The Woman's Party is made up of women of all races, creeds and nationalities who are united on the one program of working to raise the status of women.",0,,,workplace,combined,
+1000,"In my experience, being busy and working hard is the key to sanity/happiness.",0,,,workplace,combined,
+1001,"I'm compared to my dad all the time, and I've learned to take it positively by working hard.",0,,,workplace,combined,
+1002,"What you do is what matters, not what you think or say or plan.",0,,,workplace,combined,
+1003,I love deadlines. I love the whooshing noise they make as they go by.,0,,,workplace,combined,
+1004,"I don't really like coffee, she said, but I don't really like it when my head hits my desk when I fall asleep either.",0,,,workplace,combined,
+1005,"When you see what some girls marry, you realize how they must hate to work for a living.",1,"girls marry, you realize how they must hate to work for a living",,workplace,combined,"When you see who some individuals marry, you realize how they might prefer not to work for a living."
+1006,"Are you bored with life? Then throw yourself into some work you believe in with all your heart, live for it, die for it, and you will find happiness that you had thought could never be yours.",0,,,workplace,combined,
+1007,Read deeply. Stay open. Continue to wonder.,0,,,workplace,combined,
+1008,"I want to do it because I want to do it. Women must try to do things as men have tried. When they fail, their failure must be but a challenge to others.",0,,,workplace,combined,
+1009,"Resources don't last forever. They must either be USED, MANAGED or they will be WASTED.",0,,,workplace,combined,
+1010,"Whatever you want, work for it.",0,,,workplace,combined,
+1011,People who create their own opportunities are more successful than people who expect opportunities to be created for them.,0,,,workplace,combined,
+1012,"If it has to be done, you have to do it yourself.",0,,,workplace,combined,
+1013,"Men are allowed to have passion and commitment for their work ... a woman is allowed that feeling for a man, but not her work.",1,"Men are allowed to have passion and commitment for their work, but not a woman.",,workplace,combined,"Peope are allowed to have passion and commitment for their work ... other people are allowed that feeling for another person, but not their work."
+1014,"If you do everything with love and joy, you will find your soul.",0,,,workplace,combined,
+1015,"If people knew how hard I had to work to gain my mastery, it would not seem so wonderful at all.",0,,,workplace,combined,
+1016,"The more completely you can be yourself, the more fully and consciously you participate in the world.",0,,,workplace,combined,
+1017,"For the present time, just do your job well",0,,,workplace,combined,
+1018,Be robust enough to work more than a robot!,0,,,workplace,combined,
+1019,"Let your body work until it is spent, but keep your mind to yourself.",0,,,workplace,combined,
+1020,We are just peasants with money.,0,,,workplace,combined,
+1021,You can steal someone's work but you can't steal the experience that he has gained from that work.,0,,,workplace,combined,
+1022,"One of the really tough things is figuring out what questions to ask. Once you figure out the question, then the answer is relatively easy.",0,,,workplace,combined,
+1023,"I don't know how to do it today, but I will know how to do it tomorrow and do it.",0,,,workplace,combined,
+1024,"Pleasure and business, unlike oil and water, can sometimes be mixed.",0,,,workplace,combined,
+1025,"If you want things to change, you must change. If you want things to get better, you must get better.",0,,,workplace,combined,
+1026,You have time to do what needs to be done.,0,,,workplace,combined,
+1027,Quality of work is directly related to the quality of a person's character.,0,,,workplace,combined,
+1028,Make time to be still.,0,,,workplace,combined,
+1029,"If it has to be done, it must be best done.",0,,,workplace,combined,
+1030,"As long as there are ways we can serve, then we have a job to do.",0,,,workplace,combined,
+1031,I didn't want to give up my job and join the ranks of the Doing Fuck All brigade no matter how much money I had in the bank.,0,,,workplace,combined,
+1032,"You're only as good as your next idea. And if you can't agree on that, then it's time to walk.",0,,,workplace,combined,
+1033,"When you can't make it, just fake it",0,,,workplace,combined,
+1034,Love what you do!,0,,,workplace,combined,
+1035,"If you have no job, help is needed.",0,,,workplace,combined,
+1036,It's absurd to be upset by a lack of results when the cause is a lack of activity.,0,,,workplace,combined,
+1037,It's no use going the extra mile if people don't expect it. You will never get extra credit for it. Just invest it on something else.,0,,,workplace,combined,
+1038,A sure way to start your own business is to stay out of everyone else's.,0,,,workplace,combined,
+1039,You get what you work for.,0,,,workplace,combined,
+1040,"Being surrounded by successful people, doesn't mean you made it.",0,,,workplace,combined,
+1041,"The speed of modern life is an oppressive thing, and the corporate world is quick to punish those with an honest heart.",0,,,workplace,combined,
+1042,I don't have any babies or ambition. I have it all!,0,,,workplace,combined,
+1043,It is not about how much activity we are capable of doing but how we are performing the activity that makes the difference.,0,,,workplace,combined,
+1044,Don't listen to a man who says we have to work together as a team. He means we have to work as he says.,0,,,workplace,combined,
+1045,but I have no mind for business and considered staying awake to be enough of an accomplishment.,0,,,workplace,combined,
+1046,"It is easy to hurt people when we do not filter our thoughts, when we do not choose our words, when we do not control the tone of voice and the body language.",0,,,workplace,combined,
+1047,"Do all the work you can, while you can.",0,,,workplace,combined,
+1048,The work that you were called to do is very important and precious,0,,,workplace,combined,
+1049,"She doesn't do enough work around here, probably because she's a woman",1,She doesn't do enough work because she's a woman.,,workplace,combined,"They don't do enough work around here, probably because they're a person"
+1050,"There are no ugly women, only lazy ones",1,"There are no ugly women, only lazy ones.",,workplace,combined,"There are no ugly people, only lazy ones"
+1051,"If you work all day, when can you connect with your soul?",0,,,workplace,combined,
+1052,"Instead of thinking that you always need to do bigger things, learn to do the small things in better ways.",0,,,workplace,combined,
+1053,"Without strength, can we work to create wealth?",0,,,workplace,combined,
+1054,"With or without payment, the work will be done.",0,,,workplace,combined,
+1055,We work in the best of our abilities.,0,,,workplace,combined,
+1056,"After all, the best part of a holiday is perhaps not so much to be resting yourself, as to see all the other fellows busy working.",0,,,workplace,combined,
+1057,Do what you want that works.,0,,,workplace,combined,
+1058,I just realized that sleep sometimes is the only precious wage for the hard working man.,0,,,workplace,combined,
+1059,"If two men on the same job agree all the time, then one is useless. If they disagree all the time, both are useless.",0,,,workplace,combined,
+1060,"I was cranked to a fifth gear, and everything I did, I did on a deadline.",0,,,workplace,combined,
+1061,Work while you have strength.,0,,,workplace,combined,
+1062,"If you are lazy, then undoubtedly you will soon become poor",0,,,workplace,combined,
+1063,My mind feels like a beehive without the buzz.,0,,,workplace,combined,
+1064,"When you gain maximum knowledge in any area of work and put it into practice, no power will be able to hinder you achieving your set goals.",0,,,workplace,combined,
+1065,I've discovered I am most comfortable outside my comfort zone.,0,,,workplace,combined,
+1066,I couldn't live with myself if I thought nothing could get better.,0,,,workplace,combined,
+1067,Most business meetings involve one party elaborately suppressing a wish to shout at the other: 'just give us the money'.,0,,,workplace,combined,
+1068,It is sad to see people do things without putting their soul and heart into it.,0,,,workplace,combined,
+1069,Those who feel satisfied with their personal lives are more satisfied with their careers and perform better.,0,,,workplace,combined,
+1070,"When he studied, it was not so much for a promotion as to EXCEL at his job.",0,,,workplace,combined,
+1071,"By focusing on her career and taking a calculated approach to amassing power, Heidi violated our stereotypical expectations of women.",0,,,workplace,combined,
+1072,Allow the beauty of all that we love be reflected in who we are and in our actions.,0,,,workplace,combined,
+1073,"To be great at anything that you do, you have to love it! but also give it your all..",0,,,workplace,combined,
+1074,Begin the work!,0,,,workplace,combined,
+1075,The only work for success is hard work.,0,,,workplace,combined,
+1076,I will serve with all my might.,0,,,workplace,combined,
+1077,Explore the endless opportunities in life.,0,,,workplace,combined,
+1078,"When we perform at our highest level of potential, we are content. Because we have given I best in what we enjoy doing.",0,,,workplace,combined,
+1079,I've given you my time. Its all I've got to give - its all any man has. And for a pitiful buck and a quarter an hour.,0,,,workplace,combined,
+1080,"It's all right to tell a guy to lift himself by his own bootstraps, but it is cruel to say to a bootless guy that he ought to lift himself by his own bootstraps.",0,,,workplace,combined,
+1081,"Sometimes we just have to suck it up and do what we have to do, until we are able to do what we want to do.",0,,,workplace,combined,
