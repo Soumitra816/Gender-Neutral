@@ -15,9 +15,8 @@ assert(word_emb_path is not None)
 
 username = Path.home().name
 project_dir = Path(__file__).resolve().parent.parent
-sdk_dir = project_dir.joinpath('CMU-MultimodalSDK')
 data_dir = project_dir.joinpath('datasets')
-data_dict = {'stress': data_dir.joinpath('Stress')}
+data_dict = {'gender': data_dir.joinpath('gender')}
 optimizer_dict = {'RMSprop': optim.RMSprop, 'Adam': optim.Adam}
 activation_dict = {'elu': nn.ELU, "hardshrink": nn.Hardshrink, "hardtanh": nn.Hardtanh,
                    "leakyrelu": nn.LeakyReLU, "prelu": nn.PReLU, "relu": nn.ReLU, "rrelu": nn.RReLU,
