@@ -29,7 +29,7 @@ def collate_batch(batch):
     return pad_sequence(text, padding_value=2.0), pad_sequence(acus, padding_value=2.0),\
     pad_sequence(vid, padding_value=2.0),pad_sequence(label,True),pad_sequence(umask, padding_value=2),pad_sequence(labels,True)
 
-def get_IEMOCAP_loaders(path1,path2, batch_size=32,  num_workers=0, pin_mlabelsry=False):
+def get_GENRE_loaders(path1,path2, batch_size=32,  num_workers=0, pin_mlabelsry=False):
     trainset = load_dataset(path1)
     #validset = load_dataset(path2)
     testset  = load_dataset(path2)
