@@ -23,14 +23,14 @@ activation_dict = {'elu': nn.ELU, "hardshrink": nn.Hardshrink, "hardtanh": nn.Ha
                    "tanh": nn.Tanh}
 
 
-def str2bool(v):
-    """string to boolean"""
-    if v.lower() in ('yes', 'true', 't', 'y', '1'):
-        return True
-    elif v.lower() in ('no', 'false', 'f', 'n', '0'):
-        return False
-    else:
-        raise argparse.ArgumentTypeError('Boolean value expected.')
+# def str2bool(v):
+#     """string to boolean"""
+#     if v.lower() in ('yes', 'true', 't', 'y', '1'):
+#         return True
+#     elif v.lower() in ('no', 'false', 'f', 'n', '0'):
+#         return False
+#     else:
+#         raise argparse.ArgumentTypeError('Boolean value expected.')
 
 
 class Config(object):
